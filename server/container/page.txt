@@ -1,0 +1,1945 @@
+<!DOCTYPE html><html class="js flexbox canvas canvastext no-webgl touch no-geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent no-video no-audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths MSC-small" lang="en" style="" alt="400"><head id="ctl00_ctl00_head"><meta class="foundation-mq-small"><meta class="foundation-mq-small-only"><meta class="foundation-mq-medium"><meta class="foundation-mq-medium-only"><meta class="foundation-mq-large"><meta class="foundation-mq-large-only"><meta class="foundation-mq-xlarge"><meta class="foundation-mq-xlarge-only"><meta class="foundation-mq-xxlarge"><meta class="foundation-data-attribute-namespace"><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WZPWRT"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="f5_cspm">(function(){var f5_cspm={f5_p:'KACBHIJJOPGFGIDPHGIIOJPBPDEOILBJFEKHHKCNMGKBDEJNNNPAHDHMAMNADJOFHEPJJOFIOMHBMFAJAGNCGJCGHFPILLLMAEGNKPBKLABLEKJKIFMOPJFPEMLENKAL',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,32,(latency>>8));str=f5_cspm.set_byte(str,33,(latency&0xff));str=f5_cspm.set_byte(str,27,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='aaaaaaaaaaaaaaa='+encodeURIComponent(cookie_val)+';path=/';}
+return;}}
+catch(err){return;}
+setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'){if(pair[1]=='1234'){var d=new Date();d.setTime(d.getTime()-1);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;';setTimeout(f5_cspm.wait_perf_data,100);}}}}}
+f5_cspm.go();}());</script><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><title>
+	Shipping Container Tracking and Tracing | MSC
+</title><meta name="msvalidate.01" content="CB27310C05BFF2C6B478D177A1100806"><meta name="description" content="MSC offers an online tracking and tracing system enabling containers to be tracked throughout the world. Find your freight fast. Contact our team!"> 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+<meta http-equiv="pragma" content="no-cache"> 
+<meta http-equiv="content-style-type" content="text/css"> 
+<meta http-equiv="content-script-type" content="text/javascript"> 
+<meta name="keywords" content="MSC,container,tracking,tracing,system"> 
+ 
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"> 
+<link href="/favicon.ico" type="image/x-icon" rel="icon"> 
+
+    
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link href="/CMSGlobalFiles/slick.css?v=1.53" rel="stylesheet">
+		<!--[if !IE]><!-->
+		<link rel="stylesheet" href="/CMSGlobalFiles/site.min.css?v=1.53">
+		<!--<![endif]-->
+		<!--[if lt IE 9]><link rel="stylesheet" href="/CMSGlobalFiles/ie8Site.min-blessed1.css?v=1.53" /><link rel="stylesheet" href="/CMSGlobalFiles/ie8site.min.css?v=1.53" /><![endif]-->
+		<!--[if IE 9]><link rel="stylesheet" href="/CMSGlobalFiles/ie9site.min.css?v=1.53" /><![endif]-->
+		<!--[if gt IE 9]><link rel="stylesheet" href="/CMSGlobalFiles/site.min.css?v=1.53" /><![endif]-->
+		<link rel="stylesheet" href="/CMSGlobalFiles/print.min.css?v=1.53" type="text/css" media="print">
+
+		<script type="text/javascript">
+			window.isIE8 = false;
+			window.isIE9 = false;
+		</script>
+
+		<!--[if IE 9]>
+		        <script type="text/javascript">
+			        window.isIE9 = true;
+		        </script>
+	        <![endif]-->
+
+		<!--[if lt IE 9]>
+		        <script type="text/javascript">
+			        window.isIE8 = true;
+		        </script>
+	        <![endif]-->
+    
+            
+            <script src="/cmsscripts/custom/jquery-1.11.1.min.js"></script>
+            <script src="/CMSGlobalFiles/js/headerScripts.min.js?v=1.53"></script>
+	 
+
+	<script>
+		dataLayer = [{"agencyContactNumber":"+55 13 3211 9500","agencyContactEmail":"BR241-distribution@msc.com","agencyContactAddress":"MSC Mediterranean Shipping do Brasil Ltda, Av. Ana Costa, 291 - 4th Floor, Gonzaga, 11060-917 SANTOS, SAO PAULO"}];
+	</script>
+
+	
+    
+
+    
+
+
+
+	<!-- Head Script Block -->
+	<meta name="google-site-verification" content="_UpsJwAMfuYoccWLRE-hMqv8zcwxM6c8ISyyCBGWBrQ"><style></style><meta class="foundation-mq-topbar"></head>
+<body class="LTR Gecko Gecko2 PTBR ContentBody"><div id="lightningjs-usabilla_live" style="display: none;"><div><iframe frameborder="0" id="lightningjs-frame-usabilla_live"></iframe></div></div>
+
+	<!-- Start Body Script Block -->
+	
+
+	
+    
+
+
+
+	<form method="post" action="/track-a-shipment?link=b9313e24-0a4c-4988-ac14-5d2c1d4a79b0" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="ctl00_ctl00_manScript_HiddenField" id="ctl00_ctl00_manScript_HiddenField" value="">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZAQ9v6xsyolesp1i3Xl8S-gFKKyP2zagGr268wEXRXm9UApexw2&amp;t=635875545181218729" type="text/javascript"></script>
+
+<input type="hidden" name="lng" id="lng" value="pt-BR">
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('ctl00$ctl00$pagemanager$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('ctl00$ctl00$pagemanager$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=1HpV3OVB0CaEXoaafcqmhr_K9lhYLZviF1rvtXd7wCMn2dCQooJbPMVf1U51Z8SY4fH_-_y_NVifkXcZKENx_3My0_dVrJaIgO0Sht87dxWt7TiIG7OIMOb6WIRgmAVhn97cCw2&amp;t=1c6690ce" type="text/javascript"></script>
+<script src="/WebResource.axd?d=hyU2OYDzafwsi4zhwYmx7e2H-IJWjrFY5VcZ8PAdvBOvEQG8BhynJhLoxfHtR2zKwsKz2LaSVAXcbJC4SmANfYfay5FE66xtQ-sBhxyfWcTbU-hIL8EW3MocHeofudXYHUqPzIwIKJJo_7H9tALnlGkeZcLXfuNSBzYYmQWD1DV9eAX70&amp;t=636271613972584328" type="text/javascript"></script>
+<script src="/WebResource.axd?d=hyU2OYDzafwsi4zhwYmx7e2H-IJWjrFY5VcZ8PAdvBOvEQG8BhynJhLoxfHtR2zKwsKz2LaSVAXcbJC4SmANfYfay5FE66xtQ-sBhxyfWcTbU-hIL8EW3MocHeofudXYHUqPzIwIKJJo_7H9tALnlGkeZcLXfuNSBzYYmQWD1DV9eAX70&amp;t=636271613972584328" type="text/javascript"></script>
+<script src="/WebResource.axd?d=hyU2OYDzafwsi4zhwYmx7e2H-IJWjrFY5VcZ8PAdvBOvEQG8BhynJhLoxfHtR2zKwsKz2LaSVAXcbJC4SmANfYfay5FE66xtQ-sBhxyfWcTbU-hIL8EW3MocHeofudXYHUqPzIwIKJJo_7H9tALnlGkeZcLXfuNSBzYYmQWD1DV9eAX70&amp;t=636271613972584328" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=qph9tUZ6hGPLbkznkRkqTbs6AqoezZAkDt5oc2inWY2MifCNwOLiCs8rUsZw-kxqIX8mVDvj2myT4PZwp8jXvjdBDL86UO-D1A47dfLu5TAMO9_D0&amp;t=7c776dc1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=TvpD2YGOOsCm1yWcLkKnBb4jP1OdeVX1e-4d39TqGJ75gus637i143D1XtiAwalKzszBoLifxvceKAJkugVIld-HVBnNZq38uxJd85-JuXCiL1JA0&amp;t=7c776dc1" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "isRTL": "false",
+  "isDebuggingEnabled": false,
+  "applicationUrl": "/",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDialog": false
+};
+
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="184F8A35">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="EuC+s8eiRhbmNBCLDCfdJzBuoWsQZxgTcxz5Dv3gc2FBeHcv/gs6ZJ2HHXMqt2l39USx4fV9U7v5BNkhkejHE366jG+Vq6ji2Sy/PaZ+pUkkPpVuZG9JRcwic20dyJ1sD0SPrq3/s3hC8UhILeBDVvwhbl8FxheJku0n8EN/DOMaYZt5rWTNIkxvhmCjEOun92Kvp/2afYOKCCthBrPWGOZz9lGdqhYON2I52uINBgdKmChgY/lt4huSmq9Ox1j246qrm/PQQ0BvHz80pNDGEuy2iXRhiibr/FLJ2utoSb6pieQ8rTd3vy4eC/TQEAxIL2OaoiU6mLJz2yyK3SJNmvbVTdV5DTIIqNvv3VxNcjRoCRp2m6SzDtcUq2S0s3APdsP2BftXU6+xZx/023PymfRheuB2BkNw7decmUXGe6j0IqK1chXu4KO2rblLEd3YLH+CxxWnlXOd8xTX4x2zmMy5Y1GmngZQg1Fw/cueVnghf+13fPT1VHBt+eku0i2zyVoofga0C8egnOAQfcYdW/+rhxwtz7JYDajnExlpVYzSB2/YNWicK+WJ7xGGoGELeNPwlcqIeqteWjYEiSj2oRajf34GeoqnUMpHMyu7xU9Z0KXU4MChBB/jMqbffj0HB18QdrYGNy7HvEDLY+R7IV45hJixcTOl5SiPZSdfAcOLtTOVLW2iCOZ6UrDxm3gl5xcqOj0An8jlAirB167BoEOHcHak6IhpXooY2A0RgBBjkKl7WLsU/mhQGpY5eRv/oOmwZBVRcDct0i5ifxRIG9GYMDKD80667ygcB3xYsOZ2ey+AO7sEv2kghXOFxve2EHHGfRnt6JkyzuEIoseDddiRD1PlwB1NQC7TJBX6jQdqDzp91VOJXrxwd7yTSbg+DqOT7qeSpUFaCrAEXGJa9JfKBCUboqDShMjF/EYnEMiLORuLJKjg5mJMObJFqVjNTmV3hxfhtm0cMmgsKJj4Nxf6ikrOjRkus7ZoV9VViYNy/PuNgrzdJwPavZ/rW03/kq4eV/7F+j+vXLnYhInXZtw6lGaFcDOo0ktIRlPGy1573nIMBOe0pUzaYYegzFro3LM7566c7ce4ugEnI7x0TFR3KW7eG3iUM+1EmHmkd5t0NVaHqegT92v3xyDvMd9PNB8RXMyTQaWAI3ePJIWxH2Pga3/3OVT9W+eMO4+ZwoOfAOnNn8CVI3ZQx0sxQ2TRJ0OFbZ6SlOr2+w9WelbLqKLyUQciY/jF9C6MHzILT4m92Olbcndfd2QH/9PjnjqVt4wLReNC5MzGWebdsGpGtEE1kTB90X3x6K34X+RuR0cVGAzVRZ3B40gSbxtmTcyfbjIcyXFJUOuOtRl0vakIkwd9xEKsxhbuprd9dpSWoo4EEqNeWu3Jeau03R9BtKJFyrYcGA==">
+</div>
+
+
+		<script type="text/javascript">
+			window.$ = jQuery.noConflict();
+		</script>
+
+		<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$manScript', 'aspnetForm', ['tctl00$ctl00$plcMain$plcMain$udpSubscription','','tctl00$ctl00$plcMain$plcMain$udpDetails','','tctl00$ctl00$Footer$NewsletterSignup$uPnlNewsletterForm','','tctl00$ctl00$Footer$ContactFormCompact$ContactForm$uPnlContactForm','','tctl00$ctl00$UpdateEmailPreferencesModal$updDeparturesEmail','','tctl00$ctl00$ctxM',''], [], [], 90, 'ctl00$ctl00');
+//]]>
+</script>
+
+		<div id="ctl00_ctl00_ctxM">
+
+</div>
+
+		<div class="off-canvas-wrap" data-offcanvas="">
+			<div class="inner-wrap">
+
+				
+
+<header>
+    
+	
+	<!--[if lt IE 9]>
+
+	<style>
+		.right-off-canvas-menu {
+			display:none;
+		}
+	</style>
+	<![endif]-->
+
+	<aside class="right-off-canvas-menu">
+		<nav class="offCanvasNav themeYellow">
+			
+			
+
+
+
+<ul>
+    
+    <li>
+        <a id="ctl00_ctl00_Header_MobileMenu_hlkServices" tabindex="-1" title="Serviços" href="/bra/our-services">Serviços</a>
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Header_MobileMenu_hlkIndustries" tabindex="-1" title="Indústrias" href="/bra/industries">Indústrias</a>
+                            
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Header_MobileMenu_hlkRouteFinder" tabindex="-1" title="Routefinder" href="/routefinder">Routefinder</a>
+    </li>
+	<li>
+		<a id="ctl00_ctl00_Header_MobileMenu_hlkMyMSC" tabindex="-1" href="https://www.mymsc.com/Link/" target="_blank"><span class="lower">my</span>MSC</a>
+	</li>
+    <li>
+        <a id="ctl00_ctl00_Header_MobileMenu_hlkTools" tabindex="-1" title="Ferramentas" href="/bra/help-centre/tools">Ferramentas</a>
+    </li>
+</ul>
+<ul class="offCanvasSubnav">
+    <li>
+        <a id="ctl00_ctl00_Header_MobileMenu_hlkAbout" tabindex="-1" title="Quem somos" href="/bra/about-us">Quem somos</a>
+                            
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Header_MobileMenu_hlkContact" tabindex="-1" title="Contato" href="/bra/contact-us">Contato</a>
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Header_MobileMenu_hlkNews" tabindex="-1" title="Notícias" href="/bra/news">Notícias</a>
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Header_MobileMenu_hlkHelpCentre" tabindex="-1" title="Centro de ajuda" href="/bra/help-centre">Centro de ajuda</a>
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Header_MobileMenu_hlkCountryGuides" tabindex="-1" title="Guias do país" href="/country-guides/brazil">Guias do país</a>
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Header_MobileMenu_hlkCareers" tabindex="-1" title="Carreiras" href="/bra/careers">Carreiras</a>
+	</li>
+    <li>
+        <a id="ctl00_ctl00_Header_MobileMenu_hlkWorldwide" tabindex="-1" title="Ao redor do mundo" onclick="Crafted.Site.TrackingProvider.TrackEvent('worldwide', 'click', 'worldwide');" href="/?local=false">Ao redor do mundo</a>
+    </li>
+                        
+</ul>
+
+
+			
+
+<select name="ctl00$ctl00$Header$LanguageSelectionDropDown$ddlSelectLanguage" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ctl00$Header$LanguageSelectionDropDown$ddlSelectLanguage\',\'\')', 0)" id="ctl00_ctl00_Header_LanguageSelectionDropDown_ddlSelectLanguage" tabindex="-1">
+	<option value="zh-CN">Chinese</option>
+	<option value="en-GB">English</option>
+	<option value="fr-FR">French</option>
+	<option value="de-DE">German</option>
+	<option value="it-IT">Italian</option>
+	<option value="ja-JP">Japanese</option>
+	<option value="ko-KR">Korean</option>
+	<option value="pt-BR" selected="selected">Portuguese</option>
+	<option value="ru-RU">Russian</option>
+	<option value="es-AR">Spanish</option>
+	<option value="tr-TR">Turkish</option>
+
+</select>
+
+
+		</nav>
+
+	</aside>
+	<a href="#" class="exit-off-canvas"></a>
+	<div class="headerTop fillBlack show-for-medium-up">
+		<div class="headerShutter">&nbsp;</div>
+		<div class="headerContent">
+			<div class="navContainer">
+				<div class=" row collapse">
+					<div class="columns show-for-medium-up medium-12 large-12">
+						<nav class="secondaryNav">
+							<a id="ctl00_ctl00_Header_HeaderMenuUpper_hlkPNavAbout" href="/bra/about-us">QUEM SOMOS</a>
+<a id="ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavContact" href="/bra/contact-us">CONTATO</a>
+<a id="ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavNews" href="/bra/news">NOTÍCIAS</a>
+<a id="ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavHelp" href="/bra/help-centre">CENTRO DE AJUDA</a>
+<a id="ctl00_ctl00_Header_HeaderMenuUpper_hlkCountryGuides" href="/country-guides/brazil">GUIAS DO PAÍS</a>
+<a id="ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavCareers" href="/bra/careers">CARREIRAS</a>
+<a id="ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavWorldwide" onclick="Crafted.Site.TrackingProvider.TrackEvent('worldwide', 'click', 'worldwide');" href="/?local=false"><span id="ctl00_ctl00_Header_HeaderMenuUpper_lblWorldwideLink">AO REDOR DO MUNDO</span><img id="ctl00_ctl00_Header_HeaderMenuUpper_imgAgencyFlag" class="flag-icon" src="/getattachment/f8c36c9d-7cf4-4f3d-88c6-a5d5038c7eeb/635476756287530000" alt="Flag"></a>
+							
+
+<div id="languageSelector" class="drop-down">
+    PT
+	
+			<div id="languageList">
+				<ul>
+		
+            <li>
+				<a title="Chinese" href="/track-a-shipment?link=b9313e24-0a4c-4988-ac14-5d2c1d4a79b0&amp;lang=zh-cn" onclick="Crafted.Site.TrackingProvider.TrackEvent('language', 'click', 'Chinese - China');">ZH</a>
+            </li>
+		
+            <li>
+				<a title="English" href="/track-a-shipment?link=b9313e24-0a4c-4988-ac14-5d2c1d4a79b0&amp;lang=en-gb" onclick="Crafted.Site.TrackingProvider.TrackEvent('language', 'click', 'English - United Kingdom');">EN</a>
+            </li>
+		
+            <li>
+				<a title="French" href="/track-a-shipment?link=b9313e24-0a4c-4988-ac14-5d2c1d4a79b0&amp;lang=fr-fr" onclick="Crafted.Site.TrackingProvider.TrackEvent('language', 'click', 'French - France');">FR</a>
+            </li>
+		
+            <li>
+				<a title="German" href="/track-a-shipment?link=b9313e24-0a4c-4988-ac14-5d2c1d4a79b0&amp;lang=de-de" onclick="Crafted.Site.TrackingProvider.TrackEvent('language', 'click', 'German - Germany');">DE</a>
+            </li>
+		
+            <li>
+				<a title="Italian" href="/track-a-shipment?link=b9313e24-0a4c-4988-ac14-5d2c1d4a79b0&amp;lang=it-it" onclick="Crafted.Site.TrackingProvider.TrackEvent('language', 'click', 'Italian - Italy');">IT</a>
+            </li>
+		
+            <li>
+				<a title="Japanese" href="/track-a-shipment?link=b9313e24-0a4c-4988-ac14-5d2c1d4a79b0&amp;lang=ja-jp" onclick="Crafted.Site.TrackingProvider.TrackEvent('language', 'click', 'Japanese - Japan');">JA</a>
+            </li>
+		
+            <li>
+				<a title="Korean" href="/track-a-shipment?link=b9313e24-0a4c-4988-ac14-5d2c1d4a79b0&amp;lang=ko-kr" onclick="Crafted.Site.TrackingProvider.TrackEvent('language', 'click', 'Korean - Korea');">KO</a>
+            </li>
+		
+            <li>
+				<a title="Portuguese" href="/track-a-shipment?link=b9313e24-0a4c-4988-ac14-5d2c1d4a79b0&amp;lang=pt-br" onclick="Crafted.Site.TrackingProvider.TrackEvent('language', 'click', 'Portuguese - Brazil');">PT</a>
+            </li>
+		
+            <li>
+				<a title="Russian" href="/track-a-shipment?link=b9313e24-0a4c-4988-ac14-5d2c1d4a79b0&amp;lang=ru-ru" onclick="Crafted.Site.TrackingProvider.TrackEvent('language', 'click', 'Russian - Russia');">RU</a>
+            </li>
+		
+            <li>
+				<a title="Spanish" href="/track-a-shipment?link=b9313e24-0a4c-4988-ac14-5d2c1d4a79b0&amp;lang=es-ar" onclick="Crafted.Site.TrackingProvider.TrackEvent('language', 'click', 'Spanish - Argentina');">ES</a>
+            </li>
+		
+            <li>
+				<a title="Turkish" href="/track-a-shipment?link=b9313e24-0a4c-4988-ac14-5d2c1d4a79b0&amp;lang=tr-tr" onclick="Crafted.Site.TrackingProvider.TrackEvent('language', 'click', 'Turkish - Turkey');">TR</a>
+            </li>
+		
+				</ul>
+			</div>
+		
+</div>
+
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="headerShutter">&nbsp;</div>
+	</div>
+	
+	
+
+
+<div class="headerMid fillYellow">
+    <div class="headerShutter">&nbsp;</div>
+    <div class="headerContent">
+        <div class="navContainer">
+            <div class=" row collapse">
+                <div class="columns small-3 medium-12 large-5">
+                    <a id="LOGO" title="Página inicial Mediterranean Shipping Company" href="/bra"></a>
+
+                </div>
+                <div class="columns small-8 small-offset-1 show-for-small-only">
+                    <div class="columns small-4 iconNav">
+                        <a id="linkSearch" title="Procurar">
+							<span class="searchIcon"></span>
+                        </a>
+                    </div>
+                    <div class="columns small-4 iconNav">
+                        <a id="linkPhone" title="Telefone" href="tel:+55%2013%203211%209500">
+							<span class="phoneIcon"></span>
+						</a>
+                    </div>
+                    <div class="columns small-4 iconNav navButtonHolder">
+                        <a class="right-off-canvas-toggle" id="linkMenu" href="#" title="Abrir Menu"></a>
+                    </div>
+                </div>
+                <div class="columns show-for-medium-up medium-12 large-7">
+                    <nav class="primaryNav">
+                        <a id="ctl00_ctl00_Header_HeaderMenuLower_hlkPNavServices" href="/bra/our-services">Serviços</a>
+                        <a id="ctl00_ctl00_Header_HeaderMenuLower_hlkPNavIndustries" href="/bra/industries">Indústrias</a>
+                        <a id="ctl00_ctl00_Header_HeaderMenuLower_hlkPNavRouteFinder" href="/routefinder">Routefinder</a>
+                        <a id="ctl00_ctl00_Header_HeaderMenuLower_hlkPnavTools" href="/bra/help-centre/tools">Ferramentas</a>
+                        <a id="ctl00_ctl00_Header_HeaderMenuLower_hlkPnavMyMSC" class="nav-myMSC headerbutton" data-expander=".js-midNavExpander" rel=".myMSCExpander">myMSC</a>
+                    </nav>
+                </div>
+            </div>
+			
+        </div>
+
+        <div id="ctl00_ctl00_Header_HeaderMenuLower_pnlMyMSCFlyout" class="row expanderWrapper pushBackground js-midNavExpander">
+	
+			<div class="column medium-6 large-4 expanderContent right themeYellow myMSCExpander">
+				<h2>myMSC</h2>
+				<p>A secure portal allowing our customers and vendors 24/7 access to their operational and financial information.</p>
+                <a id="ctl00_ctl00_Header_HeaderMenuLower_lnkFindOutMore" class="button expand text-no-transform" href="/ebusiness">Find out more</a>
+				<a id="ctl00_ctl00_Header_HeaderMenuLower_lnkMyMSC" class="button expand" href="https://www.mymsc.com/Link/" target="_blank">LOG IN</a>
+			</div>
+		
+</div>
+    </div>
+    <div class="headerShutter">&nbsp;</div>
+</div>
+
+    <div class="headerBottom">
+
+        <div class="row dropDownControls">
+            <div class="columns large-4 medium-5 small-6">
+                <a id="btnTrack" title="RASTREAR UMA REMESSA" class="headerbutton button expand" rel="trackForm" onclick="Crafted.Site.TrackingProvider.TrackEvent('track a shipment', 'click', 'header');" href="/track-a-shipment">RASTREAR UMA REMESSA</a>
+                        
+            </div>
+            <div class="columns large-4 medium-5 small-6">
+                <a id="btnSearch" title="PESQUISAR PROGRAMAÇÃO" class="headerbutton button expand" rel="scheduleForm" onclick="Crafted.Site.TrackingProvider.TrackEvent('search schedules', 'click', 'header');" href="/search-schedules">PESQUISAR PROGRAMAÇÃO</a>
+                        
+            </div>
+            <div class="columns medium-2 large-4 show-for-medium-up">
+                <a id="lnkSearchIcon" class="headerbutton button expand searchTab " rel="searchForm" onclientclick="Crafted.Site.TrackingProvider.TrackEvent('site search', 'click', 'header');" href="/bra/search-results">
+					<span class="searchIcon show-for-medium-only"></span>
+					<span class="show-for-large-up" style="text-transform:uppercase;">PROCURAR NO SITE</span>
+				</a>
+            </div>
+        </div>
+
+        <div id="expandedContent" class="expanderWrapper">
+            <div class="row expanderContent headerForm trackForm">
+                <div class="columns medium-12">
+                    <div class="columns medium-6">
+                        <div id="ctl00_ctl00_Header_TrackSearch_pnlTrackSearchForm" class="row collapse themeYellow searchForm" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ctl00_Header_TrackSearch_hlkSearch')">
+	
+	<div class="search-field">
+		<div class="search-input">
+			<div id="ctl00_ctl00_Header_TrackSearch_txtBolSearch" class=" singleton" placeholder="Número de reserva / Número do contêiner / Conhecimento de embarque">
+		<div id="ctl00_ctl00_Header_TrackSearch_txtBolSearch_LabelWrap" class="labelWrap">
+			<label for="ctl00_ctl00_Header_TrackSearch_txtBolSearch_TextField" id="ctl00_ctl00_Header_TrackSearch_txtBolSearch_FieldLabel">Booking number / Container number / Bill of lading</label>
+		</div><div id="ctl00_ctl00_Header_TrackSearch_txtBolSearch_FieldWrap" class="fieldWrap">
+			<input name="ctl00$ctl00$Header$TrackSearch$txtBolSearch$TextField" type="text" id="ctl00_ctl00_Header_TrackSearch_txtBolSearch_TextField" placeholder="Booking number / Container number / Bill of lading">
+		</div><div id="ctl00_ctl00_Header_TrackSearch_txtBolSearch_ValidationWrap" class="validationWrap">
+			<span id="ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator" style="display:none;">Please input a tracking number, container number or BOL number</span>
+		</div>
+	</div>
+		</div>
+		<div class="search-button">
+			<a onclick="Crafted.Site.TrackingProvider.TrackEvent('track a shipment', 'click', 'flyout submit', 'HeaderTracking');" id="ctl00_ctl00_Header_TrackSearch_hlkSearch" title="Procurar" class="button postfix altButtonLight" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ctl00$Header$TrackSearch$hlkSearch", "", true, "HeaderTracking", "", false, true))'>
+				<span class="searchIcon"></span>
+			</a>
+		</div>
+	</div>
+
+</div>
+
+                                    
+                                
+                    </div>
+                </div>
+            </div>
+
+            <div class="row expanderContent headerForm scheduleForm">
+                
+
+<div class="columns medium-12 scheduleForm">
+      <div class="row collapse">
+           <div class="columns large-5 themeYellow formField">
+               <div class="portsInputs">
+                   
+
+                   <div id="ctl00_ctl00_Header_ScheduleSearch_txtorigin" autocomplete="off">
+	<div id="ctl00_ctl00_Header_ScheduleSearch_txtorigin_LabelWrap" class="labelWrap">
+		<label for="ctl00_ctl00_Header_ScheduleSearch_txtorigin_TextField" id="ctl00_ctl00_Header_ScheduleSearch_txtorigin_FieldLabel"></label>
+	</div><div id="ctl00_ctl00_Header_ScheduleSearch_txtorigin_FieldWrap" class="fieldWrap">
+		<input name="ctl00$ctl00$Header$ScheduleSearch$txtorigin$TextField" type="text" id="ctl00_ctl00_Header_ScheduleSearch_txtorigin_TextField" placeholder="Port of load" class="ui-autocomplete-input" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+	</div><div id="ctl00_ctl00_Header_ScheduleSearch_txtorigin_ValidationWrap" class="validationWrap">
+		<span id="ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator" style="display:none;">Please select a valid load port</span>
+	</div>
+</div>
+                   <input name="ctl00$ctl00$Header$ScheduleSearch$hdnorigin" type="hidden" id="ctl00_ctl00_Header_ScheduleSearch_hdnorigin" control="ctl00_ctl00_Header_ScheduleSearch_txtorigin" class="ui-autocomplete-input" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+
+                   <div id="ctl00_ctl00_Header_ScheduleSearch_txtdestination" autocomplete="off">
+	<div id="ctl00_ctl00_Header_ScheduleSearch_txtdestination_LabelWrap" class="labelWrap">
+		<label for="ctl00_ctl00_Header_ScheduleSearch_txtdestination_TextField" id="ctl00_ctl00_Header_ScheduleSearch_txtdestination_FieldLabel"></label>
+	</div><div id="ctl00_ctl00_Header_ScheduleSearch_txtdestination_FieldWrap" class="fieldWrap">
+		<input name="ctl00$ctl00$Header$ScheduleSearch$txtdestination$TextField" type="text" id="ctl00_ctl00_Header_ScheduleSearch_txtdestination_TextField" placeholder="Port of discharge" class="ui-autocomplete-input" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+	</div><div id="ctl00_ctl00_Header_ScheduleSearch_txtdestination_ValidationWrap" class="validationWrap">
+		<span id="ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator" style="display:none;">Please select a valid discharge port</span>
+	</div>
+</div>
+                   <input name="ctl00$ctl00$Header$ScheduleSearch$hdndestination" type="hidden" id="ctl00_ctl00_Header_ScheduleSearch_hdndestination" control="ctl00_ctl00_Header_ScheduleSearch_txtdestination" class="ui-autocomplete-input" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>                  
+                </div>
+                   <div class="row collapse">
+                        <div class="columns medium-7 padMe">
+                            <div class="row collapse">
+                                <div class="small-12 medium-10 columns">
+									<div id="ctl00_ctl00_Header_ScheduleSearch_pnlDateBlock" class="validationBlock" data-errorclass="error">
+	
+										<div class="fieldWrap">
+											<input name="ctl00$ctl00$Header$ScheduleSearch$txtDate" type="text" id="ctl00_ctl00_Header_ScheduleSearch_txtDate" class="schedulesDateField" placeholder="Select a date">
+										</div>
+										<div class="validationWrap">
+											<span id="ctl00_ctl00_Header_ScheduleSearch_valDate" style="display:none;">Please enter a date that is less than 11 weeks in the past</span>
+											<span class="hide">
+												<span id="ctl00_ctl00_Header_ScheduleSearch_compDate" style="display:none;">Date cannot be more than 11 weeks in the past</span>
+												<span id="ctl00_ctl00_Header_ScheduleSearch_reqDate" style="display:none;">Please enter a date</span>
+											</span>
+										</div>
+									
+</div>
+									
+
+                                </div>
+                                <div class="medium-2 columns hide-for-small-only">
+                                    <a class="button postfix calendarButton" name="ctl00_ctl00_Header_ScheduleSearch_txtDate">
+                                        <span class="calendarIcon"></span>
+									</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="columns medium-5 formField">
+                                <div id="ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut">
+	<div id="ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_LabelWrap" class="labelWrap">
+		<label for="ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_DropDownField" id="ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_FieldLabel"></label>
+	</div><div id="ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_FieldWrap" class="fieldWrap">
+		<span class="fancyFormSelect"><select name="ctl00$ctl00$Header$ScheduleSearch$ddlWeeksOut$DropDownField" id="ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_DropDownField" style="-webkit-appearance: none;">
+			<option value="1">1 weeks out</option>
+			<option value="2">2 weeks out</option>
+			<option value="3">3 weeks out</option>
+			<option value="4">4 weeks out</option>
+			<option value="5">5 weeks out</option>
+			<option value="6">6 weeks out</option>
+			<option value="7">7 weeks out</option>
+			<option value="8" selected="selected">8 weeks out</option>
+
+		</select><span class="fancyFormSelectValue elipsisify" style="word-wrap: break-word;">8 weeks out</span></span>
+	</div><div id="ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_ValidationWrap" class="validationWrap">
+		<span id="ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_RequiredValidator" style="display:none;">Select a valid range for your results</span>
+	</div>
+</div>
+                        </div>
+                    </div>
+
+                   <div class="row collapse">
+						<div class="medium-8 columns padMe">
+							<input type="submit" name="ctl00$ctl00$Header$ScheduleSearch$btnSearchSchedules" value="PESQUISAR PROGRAMAÇÃO" onclick="Crafted.Site.TrackingProvider.TrackEvent('search schedules', 'click', 'flyout submit', 'HeaderSchedules');WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$Header$ScheduleSearch$btnSearchSchedules&quot;, &quot;&quot;, true, &quot;HeaderSchedules&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_Header_ScheduleSearch_btnSearchSchedules" class="button reversed expand">
+						</div>
+						<div class="medium-4 columns">
+							<a id="ctl00_ctl00_Header_ScheduleSearch_lnkClearSearch" class="clearForm" onclick="Crafted.Site.TrackingProvider.TrackEvent('search schedules', 'click', 'flyout clear');">Clear Search</a>
+						</div>
+                    </div>
+           </div>
+    
+     <div class="columns large-6 show-for-large-up themePurpleLight routeFinderHelp large-offset-1">
+         <div class="pod">
+             <h4>NOT SURE WHAT<br> YOU'RE LOOKING FOR?
+                 <div class="separator">
+                     <span class="highlight">TRY THE MSC</span><br>
+                     <a id="ctl00_ctl00_Header_ScheduleSearch_hypGoToRouteFinder" onclick="Crafted.Site.TrackingProvider.TrackEvent('route finder', 'click', 'flyout');" href="/routefinder">ROUTEFINDER</a>
+                 </div>
+             </h4>
+         </div>
+     </div>
+
+      </div>
+</div>
+<div class="clearfix"></div>
+            </div>
+
+            <div class="row expanderContent headerForm searchForm">
+                <div class="columns medium-12">
+                    <div class="columns medium-6">
+                        <div id="ctl00_ctl00_Header_SearchBox2_pnlSearch" class="search-box" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ctl00_Header_SearchBox2_lnkSearchButton')">
+	
+    <div class="search-field">
+		<div class="search-input">
+            <div id="ctl00_ctl00_Header_SearchBox2_fldSearchText">
+		<div id="ctl00_ctl00_Header_SearchBox2_fldSearchText_LabelWrap" class="labelWrap">
+			<label for="ctl00_ctl00_Header_SearchBox2_fldSearchText_TextField" id="ctl00_ctl00_Header_SearchBox2_fldSearchText_FieldLabel"></label>
+		</div><div id="ctl00_ctl00_Header_SearchBox2_fldSearchText_FieldWrap" class="fieldWrap">
+			<input name="ctl00$ctl00$Header$SearchBox2$fldSearchText$TextField" type="text" id="ctl00_ctl00_Header_SearchBox2_fldSearchText_TextField" placeholder="Procurar no site">
+		</div><div id="ctl00_ctl00_Header_SearchBox2_fldSearchText_ValidationWrap" class="validationWrap">
+			<span id="ctl00_ctl00_Header_SearchBox2_fldSearchText_RequiredValidator" style="display:none;">Please enter a search term between 4 and 64 characters</span>
+		</div>
+	</div>
+        </div>
+		<div class="search-button">
+            <a id="ctl00_ctl00_Header_SearchBox2_lnkSearchButton" title="Procurar" class="button postfix" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ctl00$Header$SearchBox2$lnkSearchButton", "", true, "headerSearch", "", false, true))'>
+                <span class="searchIcon"></span>
+            </a>
+        </div>
+    </div>
+
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</header>
+
+				<div class="hero row">
+					<div class="columns heroContainer themeYellow">
+						
+    
+    
+<div id="ctl00_ctl00_plcBanner_plcBanner_HeroBanner_pnlCaption" class="captionContainer banner-caption-std">
+	
+
+    <div class="caption"> 
+		<div class="breadcrumbWrapper show-for-medium-up">
+			
+
+<ul class="breadcrumbs">
+	<li>
+		<a id="ctl00_ctl00_plcBanner_plcBanner_HeroBanner_Breadcrumb_lnkHomeBreadcrumb" href="/bra">Home</a>
+	</li>
+	
+			<li id="ctl00_ctl00_plcBanner_plcBanner_HeroBanner_Breadcrumb_rptBreadcrumb_ctl00_liCrumbItem">
+				<a id="ctl00_ctl00_plcBanner_plcBanner_HeroBanner_Breadcrumb_rptBreadcrumb_ctl00_lnkBreadcrumb" href="/bra/help-centre">Help Centre</a>
+			</li>
+		
+			<li id="ctl00_ctl00_plcBanner_plcBanner_HeroBanner_Breadcrumb_rptBreadcrumb_ctl01_liCrumbItem">
+				<a id="ctl00_ctl00_plcBanner_plcBanner_HeroBanner_Breadcrumb_rptBreadcrumb_ctl01_lnkBreadcrumb" href="/bra/help-centre/tools">Tools</a>
+			</li>
+		
+			<li id="ctl00_ctl00_plcBanner_plcBanner_HeroBanner_Breadcrumb_rptBreadcrumb_ctl02_liCrumbItem" class="current">
+				<a id="ctl00_ctl00_plcBanner_plcBanner_HeroBanner_Breadcrumb_rptBreadcrumb_ctl02_lnkBreadcrumb">Track a Shipment</a>
+			</li>
+		
+</ul>
+
+			
+				
+        </div>		
+        <h1 class="title">TRACK A SHIPMENT</h1>
+		<h2 class="sub-title">Finding your freight, fast.</h2>
+        
+    </div>
+
+</div>
+
+        
+
+
+					</div>
+				</div>
+
+				<div class="pageContent">
+
+					<main id="content">
+						<div class="container">
+							
+
+    
+    <div class="row">
+        <div id="ctl00_ctl00_plcMain_plcMain_pnlSearch" class="pod fillDarkGrey1 searchForm themeYellow clearfix pseudoForm">
+	
+            <div class="column medium-6 ">
+                <div class="search-item"><div id="ctl00_ctl00_plcMain_plcMain_TrackSearch_pnlTrackSearchForm" class="row collapse themeYellow searchForm" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ctl00_plcMain_plcMain_TrackSearch_hlkSearch')">
+		
+	<div class="search-field">
+		<div class="search-input">
+			<div id="ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch" class=" singleton" placeholder="Número de reserva / Número do contêiner / Conhecimento de embarque">
+			<div id="ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_LabelWrap" class="labelWrap">
+				<label for="ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_TextField" id="ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_FieldLabel">Booking number / Container number / Bill of lading</label>
+			</div><div id="ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_FieldWrap" class="fieldWrap">
+				<input name="ctl00$ctl00$plcMain$plcMain$TrackSearch$txtBolSearch$TextField" type="text" value="MEDU1431284" id="ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_TextField" placeholder="Booking number / Container number / Bill of lading">
+			</div><div id="ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_ValidationWrap" class="validationWrap">
+				<span id="ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator" style="display:none;">Please input a tracking number, container number or BOL number</span>
+			</div>
+		</div>
+		</div>
+		<div class="search-button">
+			<a id="ctl00_ctl00_plcMain_plcMain_TrackSearch_hlkSearch" title="Procurar" class="button postfix altButtonLight" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ctl00$plcMain$plcMain$TrackSearch$hlkSearch", "", true, "BolSearchPage", "", false, true))'>
+				<span class="searchIcon"></span>
+			</a>
+		</div>
+	</div>
+
+	</div>
+</div> 
+            </div>
+            <div class="column medium-6 ">
+                    <a id="ctl00_ctl00_plcMain_plcMain_lbtnClearSearch" title="Clear Search" class="highlight clearForm" href="javascript:__doPostBack('ctl00$ctl00$plcMain$plcMain$lbtnClearSearch','')">Clear Search</a>
+            </div>
+
+        
+</div>
+    </div>
+    <div class="row">
+        <div class="columns">
+            
+
+
+
+
+
+
+            
+			
+            <div id="ctl00_ctl00_plcMain_plcMain_pnlTrackingResults" class="copyPanel">
+	
+                
+                 
+                        <h3></h3>
+                        <dl class="accordion trackingView themeYellow" data-accordion="">
+                            
+                                    <dd id="ctl00_ctl00_plcMain_plcMain_rptBOL_ctl00_BOLItem" class="active">
+                                        <a id="ctl00_ctl00_plcMain_plcMain_rptBOL_ctl00_hlkBOLToggle" class="bolToggle hide" href="#ctl00_ctl00_plcMain_plcMain_rptBOL_ctl00_pnlBOLContent"></a>
+                                        <div id="ctl00_ctl00_plcMain_plcMain_rptBOL_ctl00_pnlBOLContent" class="content active">
+		
+
+											
+
+                                            
+                                                    <dl class="containerAccordion" data-accordion="">
+                                                
+                                                    <dd id="ctl00_ctl00_plcMain_plcMain_rptBOL_ctl00_rptContainers_ctl01_containerItem" class="active">
+                                                        <a id="ctl00_ctl00_plcMain_plcMain_rptBOL_ctl00_rptContainers_ctl01_hlkContainerToggle" class="containerToggle" href="#ctl00_ctl00_plcMain_plcMain_rptBOL_ctl00_rptContainers_ctl01_pnlContainer">Container: MEDU1431284</a>
+                                                        <div id="ctl00_ctl00_plcMain_plcMain_rptBOL_ctl00_rptContainers_ctl01_pnlContainer" class="content active">
+			
+                                                            
+<table class="containerStats singleRowTable table-equal-3">
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Final POD</th>
+			
+				<th>Final POD ETA</th>
+			
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td data-title="Type"><span class="responsiveTd">
+                20' DRY VAN
+            </span></td>
+            <td data-title="Final POD"><span class="responsiveTd">
+                GDYNIA, PL
+            </span></td>
+			
+				<td data-title="Final POD ETA"><span class="responsiveTd">
+					16/09/2017
+				</span></td>
+			
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th>Shipped to</th>
+            <th>Price calculation date*</th>
+			
+				<th></th>
+			
+        </tr>
+    </thead>
+	<tbody>
+		<tr>
+            <td data-title="Shipped to"><span class="responsiveTd">
+                GDYNIA, PL
+            </span></td>
+            <td data-title="Price calculation date*"><span class="responsiveTd">
+                09/08/2017
+            </span></td>
+			
+				<td data-title=""><span class="responsiveTd"></span></td>
+			
+		</tr>
+	</tbody>
+</table>
+<p class="price-disclaimer">* Price calculation date is indicative. Please contact your local MSC office to verify this information.</p>
+<h4>Movements</h4>
+
+        <table class="resultTable">
+            <thead>
+                <tr>
+                    <th>Location</th>
+                    <th>Description</th>
+                    <th>Date</th>
+                    <th>Vessel</th>
+                    <th>Voyage</th>
+                </tr>
+            </thead>
+            <tbody>
+    
+        <tr class="future">
+            <td data-title="Location"><span class="responsiveTd">
+                GDYNIA, PM, PL</span></td>
+            <td data-title="Description"><span class="responsiveTd">
+                Estimated Time of Arrival</span></td>
+            <td data-title="Date"><span class="responsiveTd">
+                16/09/2017</span></td>
+            <td data-title="Vessel"><span class="responsiveTd">
+                MSC FABIENNE</span></td>
+            <td data-title="Voyage"><span class="responsiveTd">
+                &nbsp;</span></td>
+        </tr>
+    
+        <tr class="future">
+            <td data-title="Location"><span class="responsiveTd">
+                ROTTERDAM, ZH, NL</span></td>
+            <td data-title="Description"><span class="responsiveTd">
+                Intended Transshipment</span></td>
+            <td data-title="Date"><span class="responsiveTd">
+                11/09/2017</span></td>
+            <td data-title="Vessel"><span class="responsiveTd">
+                MSC FABIENNE</span></td>
+            <td data-title="Voyage"><span class="responsiveTd">
+                BD736A</span></td>
+        </tr>
+    
+        <tr class="past">
+            <td data-title="Location"><span class="responsiveTd">
+                ROTTERDAM, ZH, NL</span></td>
+            <td data-title="Description"><span class="responsiveTd">
+                Transshipment Discharged</span></td>
+            <td data-title="Date"><span class="responsiveTd">
+                05/09/2017</span></td>
+            <td data-title="Vessel"><span class="responsiveTd">
+                MSC FILLIPPA</span></td>
+            <td data-title="Voyage"><span class="responsiveTd">
+                IS731R</span></td>
+        </tr>
+    
+        <tr class="past">
+            <td data-title="Location"><span class="responsiveTd">
+                MUNDRA, GJ, IN</span></td>
+            <td data-title="Description"><span class="responsiveTd">
+                Loaded</span></td>
+            <td data-title="Date"><span class="responsiveTd">
+                11/08/2017</span></td>
+            <td data-title="Vessel"><span class="responsiveTd">
+                MSC FILLIPPA</span></td>
+            <td data-title="Voyage"><span class="responsiveTd">
+                IS731R</span></td>
+        </tr>
+    
+        <tr class="past">
+            <td data-title="Location"><span class="responsiveTd">
+                MUNDRA, GJ, IN</span></td>
+            <td data-title="Description"><span class="responsiveTd">
+                Gate In Full</span></td>
+            <td data-title="Date"><span class="responsiveTd">
+                09/08/2017</span></td>
+            <td data-title="Vessel"><span class="responsiveTd">
+                &nbsp;</span></td>
+            <td data-title="Voyage"><span class="responsiveTd">
+                &nbsp;</span></td>
+        </tr>
+    
+        <tr class="past">
+            <td data-title="Location"><span class="responsiveTd">
+                MUNDRA, GJ, IN</span></td>
+            <td data-title="Description"><span class="responsiveTd">
+                Empty to Shipper</span></td>
+            <td data-title="Date"><span class="responsiveTd">
+                08/08/2017</span></td>
+            <td data-title="Vessel"><span class="responsiveTd">
+                &nbsp;</span></td>
+            <td data-title="Voyage"><span class="responsiveTd">
+                &nbsp;</span></td>
+        </tr>
+    
+        </tbody>
+                                                                    </table>
+    
+
+
+                                                            <div class="row ">
+                                                                <div class="columns large-offset-4 small-12 medium-6 large-4">
+																		<a id="ctl00_ctl00_plcMain_plcMain_rptBOL_ctl00_rptContainers_ctl01_lnkContainerEmailAlerts" class="button expand trackingEmailAlertButton" onclick="Crafted.Site.TrackingProvider.TrackEvent('track a shipment', 'email', 'receive email alerts');" data-alertsubscribeid="MEDU1431284">RECEIVE EMAIL ALERTS</a>
+                                                                </div>
+                                                                <div class="columns small-12 medium-6 large-4">
+                                                                    <a id="ctl00_ctl00_plcMain_plcMain_rptBOL_ctl00_rptContainers_ctl01_hlkContainerRSS" class="button expand" onclick="Crafted.Site.TrackingProvider.TrackEvent('track a shipment', 'click', 'view rss feed');" href="http://wcf.mscgva.ch/publicasmx/Tracking.asmx/GetRSSTrackingByContainerNumber?ContainerNumber=MEDU1431284" target="_blank">VIEW RSS FEED</a>
+                                                                </div>
+                                                            </div>
+                                                            <div class="row ">
+                                                                <div class="columns large-offset-4 small-12 medium-6 large-4">
+                                                                    <a onclick="Crafted.Site.TrackingProvider.TrackEvent('track a shipment', 'download', 'download details');" id="ctl00_ctl00_plcMain_plcMain_rptBOL_ctl00_rptContainers_ctl01_lbtnPDF" class="button expand" href="javascript:__doPostBack('ctl00$ctl00$plcMain$plcMain$rptBOL$ctl00$rptContainers$ctl01$lbtnPDF','')">PRINT DETAILS AS PDF</a>
+                                                                </div>
+                                                                <div class="columns small-12 medium-6 large-4">
+                                                                    <a id="ctl00_ctl00_plcMain_plcMain_rptBOL_ctl00_rptContainers_ctl01_hlkContainerDetailsSend" class="button expand trackingDetailsSend" data-formid="sendToFriendTracking" onclick="Crafted.Site.TrackingProvider.TrackEvent('track a shipment', 'email', 'send via email');" data-sendkey="MEDU1431284" data-sendtype="container">SEND VIA EMAIL</a>
+                                                                </div>
+
+                                                            </div>
+                                                        
+		</div>
+                                                    </dd>
+                                                    
+                                                    
+                                                    </dl>
+                                                
+
+                                        
+	</div>
+
+                                    </dd>
+
+                                
+                        </dl>
+						
+						<p>Tracking results provided by MSC on 08.09.2017 at 04:06 W. Europe Standard Time</p>
+
+                    
+    
+                
+</div>
+            
+        </div>
+    </div>
+    <div class="row">
+		<div class="column medium-8 small-12">
+        <div class="pod themeBlack">
+            <p class="lowlight2">
+                If you have any questions regarding the results of your shipment tracking results, please contact your local MSC team at the number below.
+
+Your right to use this interactive service is strictly limited to tracking containers shipped by MSC in which you have an interest. You shall not copy, download, reproduce, distribute, transmit or otherwise use any of the information and content on the MSC website unless for your own personal, non-commercial use or unless you have obtained prior express written permission to do so from MSC.
+
+Please note that reasonable efforts have been made to ensure that the service content is accurate and up-to-date, however all information is given without any guarantee or representation as to its accuracy and under no circumstances whatsoever shall MSC be liable for any direct, incidental, consequential, indirect, special or other damages, costs, losses or liabilities arising from reliance on any of the information or materials contained on the MSC website.
+
+The MSC Tracking application may not work for users that hide or anonymize their identity or location. MSC reserves the right to slow or stop entire access to MSC Track and Trace data by automated processes, without prior notice.
+
+            </p>
+        </div>
+    </div>
+		<div class="column medium-4 small-12">
+			
+		</div>
+    </div>
+    <div id="ctl00_ctl00_plcMain_plcMain_trackModal" class="reveal-modal copyPanel themeYellow small" data-reveal="" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ctl00_plcMain_plcMain_btnEmailAlerts')">
+	
+        <h2>alerts for <span id="litTrackingTitle"></span></h2>
+        <input type="hidden" name="ctl00$ctl00$plcMain$plcMain$hdnEmailAlertsId" id="ctl00_ctl00_plcMain_plcMain_hdnEmailAlertsId">
+        <div id="ctl00_ctl00_plcMain_plcMain_udpSubscription">
+		
+				
+						<div class="modalButtonPanel pseudoForm" style="width:270px; margin:0 auto; max-width:100%;">
+							<div id="ctl00_ctl00_plcMain_plcMain_txtEmail">
+			<div id="ctl00_ctl00_plcMain_plcMain_txtEmail_LabelWrap" class="labelWrap">
+				<label for="ctl00_ctl00_plcMain_plcMain_txtEmail_TextField" id="ctl00_ctl00_plcMain_plcMain_txtEmail_FieldLabel">Email address</label>
+			</div><div id="ctl00_ctl00_plcMain_plcMain_txtEmail_FieldWrap" class="fieldWrap">
+				<input name="ctl00$ctl00$plcMain$plcMain$txtEmail$TextField" type="text" id="ctl00_ctl00_plcMain_plcMain_txtEmail_TextField" placeholder="Enter your email address">
+			</div><div id="ctl00_ctl00_plcMain_plcMain_txtEmail_ValidationWrap" class="validationWrap">
+
+			</div>
+		</div>
+							<input type="submit" name="ctl00$ctl00$plcMain$plcMain$btnEmailAlerts" value="SUBSCRIBE" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$plcMain$plcMain$btnEmailAlerts&quot;, &quot;&quot;, true, &quot;alertModal&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_plcMain_plcMain_btnEmailAlerts" class="button expand"> 
+						</div>
+					
+            
+	</div>
+        <a id="SubscriptionClose" class="close-reveal-modal"><span class="modalCloseIcon" title="Close"></span></a>
+
+    
+</div>
+
+    <div id="ctl00_ctl00_plcMain_plcMain_containerModal" class="reveal-modal copyPanel themeYellow small" data-reveal="">
+	
+        <h2>details for <span id="litTrackingSendTitle"></span></h2>
+        <input type="hidden" name="ctl00$ctl00$plcMain$plcMain$hdnDetailsTrackingType" id="ctl00_ctl00_plcMain_plcMain_hdnDetailsTrackingType">
+        <input type="hidden" name="ctl00$ctl00$plcMain$plcMain$hdnDetailsTrackingKey" id="ctl00_ctl00_plcMain_plcMain_hdnDetailsTrackingKey">
+			
+        <div id="ctl00_ctl00_plcMain_plcMain_udpDetails">
+		
+				<div class="modalButtonPanel pseudoForm" style="width:270px; margin:0 auto; max-width:100%;">
+					<div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_pnlSendToFriendWrapper" class="columns pseudoForm clientUpdateForm" data-formid="sendToFriendTracking" data-initialview="edit" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ctl00_plcMain_plcMain_TrackingSendForm_btnSendEmail')">
+			
+    <div class="clientFormView" data-formviewid="edit">
+        <div class="column small-12">
+            <div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName">
+				<div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_LabelWrap" class="labelWrap">
+					<label for="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_TextField" id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_FieldLabel"></label>
+				</div><div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_FieldWrap" class="fieldWrap">
+					<input name="ctl00$ctl00$plcMain$plcMain$TrackingSendForm$fldRecipientName$TextField" type="text" id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_TextField" placeholder="Recipient's Name">
+				</div><div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_ValidationWrap" class="validationWrap">
+					<span id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator" style="display:none;">please enter the recipients name</span>
+				</div>
+			</div>
+        </div>
+        <div class="column small-12">
+            <div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail">
+				<div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_LabelWrap" class="labelWrap">
+					<label for="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_TextField" id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_FieldLabel"></label>
+				</div><div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_FieldWrap" class="fieldWrap">
+					<input name="ctl00$ctl00$plcMain$plcMain$TrackingSendForm$fldRecipientEmail$TextField" type="text" id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_TextField" placeholder="Recipient's email address">
+				</div><div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_ValidationWrap" class="validationWrap">
+					<span id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator" style="display:none;">please use a valid to email address</span>
+				</div>
+			</div>
+        </div>
+        <div class="column small-12">
+            <div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName">
+				<div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_LabelWrap" class="labelWrap">
+					<label for="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_TextField" id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_FieldLabel"></label>
+				</div><div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_FieldWrap" class="fieldWrap">
+					<input name="ctl00$ctl00$plcMain$plcMain$TrackingSendForm$fldSenderName$TextField" type="text" id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_TextField" placeholder="Your name">
+				</div><div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_ValidationWrap" class="validationWrap">
+					<span id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator" style="display:none;">please enter your name</span>
+				</div>
+			</div>
+        </div>
+        <div class="column small-12">
+            <div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail">
+				<div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_LabelWrap" class="labelWrap">
+					<label for="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_TextField" id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_FieldLabel"></label>
+				</div><div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_FieldWrap" class="fieldWrap">
+					<input name="ctl00$ctl00$plcMain$plcMain$TrackingSendForm$fldSenderEmail$TextField" type="text" id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_TextField" placeholder="Your email address">
+				</div><div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_ValidationWrap" class="validationWrap">
+					<span id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator" style="display:none;">please use a valid from email address</span>
+				</div>
+			</div>
+        </div>
+        <div class="column small-12">
+            <div id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_ajaxSpinner_pnlSpinnerWrapper" class="spinnerPosition hiddenSpinner sendToFriendSpinner">
+				
+    <div class="spinner">
+        <div class="spinnerContents">
+            <span class="spinnerWhite" title="Carregando"></span>
+        </div>
+    </div>
+
+			</div>
+
+            <input type="submit" name="ctl00$ctl00$plcMain$plcMain$TrackingSendForm$btnSendEmail" value="Send Email" onclick="$('.sendToFriendSpinner').show();Crafted.Site.TrackingProvider.TrackEvent('track a shipment', 'email', 'send', 'sendToFriend-0079f5ae-1d8b-4510-b273-7723ab238de6');WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$plcMain$plcMain$TrackingSendForm$btnSendEmail&quot;, &quot;&quot;, true, &quot;sendToFriend-0079f5ae-1d8b-4510-b273-7723ab238de6&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_plcMain_plcMain_TrackingSendForm_btnSendEmail" class="button expand altButton">
+        </div>
+    </div>
+    <div class="clientFormView" data-formviewid="complete" style="display: none;">
+        <p>Your email has been sent to .</p>
+    </div>
+
+		</div>
+
+				</div>
+            
+	</div>
+
+        <a id="ContainerDetailsClose" class="close-reveal-modal"><span class="modalCloseIcon" title="Close"></span></a>
+
+    
+</div>
+
+
+
+
+
+
+
+
+						</div>
+					</main>
+
+					
+
+
+
+
+
+
+<footer>
+    <div id="footerWrap">
+		<div class="row footer themeYellow">
+			<div class="columns large-4 medium-6 small-10 small-offset-1 medium-offset-0 end">
+				<div class="footerColumn leftFooter">
+					
+
+
+<div class="footerContact">
+	<span class="footerPhone">
+		Ligar:
+			<span class="highlight show-for-medium-up">
+				+55 13 3211 9500
+			</span>
+		<span class="highlight show-for-small-only">
+			<a id="ctl00_ctl00_Footer_FooterContact_hlkPhoneNumber" title="Ligar para MSC" onclick="Crafted.Site.TrackingProvider.TrackEvent('telephone', 'call', 'footer');" href="tel:+55%2013%203211%209500">+55 13 3211 9500</a>
+		</span>
+	</span><br>
+	<span class="emailLink">
+		E-mail:
+		<a id="ctl00_ctl00_Footer_FooterContact_hlkEmail" title="E-mail MSC" onclick="Crafted.Site.TrackingProvider.TrackEvent('email', 'email', 'footer');" href="mailto:BR241-distribution@msc.com">BR241-distribution@msc.com</a>
+	</span><br>
+	<span class="contactGlobalLink themeYellow">
+		<a id="ctl00_ctl00_Footer_FooterContact_lnkContactHQ" class="themeLink" onclick="Crafted.Site.TrackingProvider.TrackEvent('contact global hq', 'click', 'footer');" href="/bra/contact-us?showHQ=true">Contact Global Head Office</a>
+	</span>
+</div>
+<div class="footerCTA">
+    <a id="ctl00_ctl00_Footer_FooterContact_hlkTrackShipment" title="RASTREAR UMA REMESSA" class="button expand altButton" onclick="Crafted.Site.TrackingProvider.TrackEvent('track a shipment', 'click', 'footer');" href="/track-a-shipment">RASTREAR UMA REMESSA</a>
+    <a id="ctl00_ctl00_Footer_FooterContact_hlkSearchSchedules" title="PESQUISAR PROGRAMAÇÃO" class="button expand altButton" onclick="Crafted.Site.TrackingProvider.TrackEvent('search schedules', 'click', 'footer');" href="/search-schedules">PESQUISAR PROGRAMAÇÃO</a>
+</div>
+				</div>
+			</div>
+
+			<div class="columns large-4 medium-6 large-push-4 small-10 small-offset-1 medium-offset-0 end">
+				<div class="footerColumn rightFooter">
+					<div id="ctl00_ctl00_Footer_NewsletterSignup_pnlNewsletter" class="newsletterPod" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ctl00_Footer_NewsletterSignup_btnSubmit')">
+	
+
+    <h3 class="footerSubscribeFormHeader highlight">
+        FIQUE ATUALIZADO COM NOSSAS NOTÍCIAS</h3>
+    <div id="ctl00_ctl00_Footer_NewsletterSignup_uPnlNewsletterForm">
+		
+            
+                    <div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ctl00_Footer_NewsletterSignup_btnSubmit')">
+			
+                        <div id="ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName">
+				<div id="ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_LabelWrap" class="labelWrap">
+					<label for="ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_TextField" id="ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_FieldLabel">First name</label>
+				</div><div id="ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_FieldWrap" class="fieldWrap">
+					<input name="ctl00$ctl00$Footer$NewsletterSignup$txtNLFirstName$TextField" type="text" id="ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_TextField" placeholder="Primeiro nome">
+				</div><div id="ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_ValidationWrap" class="validationWrap">
+					<span id="ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator" style="display:none;">Insira um valor válido</span>
+				</div>
+			</div>
+                        <div id="ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName">
+				<div id="ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_LabelWrap" class="labelWrap">
+					<label for="ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_TextField" id="ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_FieldLabel">Last name</label>
+				</div><div id="ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_FieldWrap" class="fieldWrap">
+					<input name="ctl00$ctl00$Footer$NewsletterSignup$txtNLLastName$TextField" type="text" id="ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_TextField" placeholder="Último nome">
+				</div><div id="ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_ValidationWrap" class="validationWrap">
+					<span id="ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator" style="display:none;">Insira um valor válido</span>
+				</div>
+			</div>
+                        <div id="ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail">
+				<div id="ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_LabelWrap" class="labelWrap">
+					<label for="ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_TextField" id="ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_FieldLabel">Email address</label>
+				</div><div id="ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_FieldWrap" class="fieldWrap">
+					<input name="ctl00$ctl00$Footer$NewsletterSignup$txtNLEmail$TextField" type="text" id="ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_TextField" placeholder="Endereço de e-mail">
+				</div><div id="ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_ValidationWrap" class="validationWrap">
+					<span id="ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator" style="display:none;">Insira um valor válido</span>
+				</div>
+			</div>
+                        
+
+<div class="checkboxWrapper clearfix">
+	<div class="fieldAndLabelWrap formField check">
+		<div class="fieldWrap">
+			<span class="fancyFormCheckbox"><input id="ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_chkPrivacyPolicy" type="checkbox" name="ctl00$ctl00$Footer$NewsletterSignup$PrivacyPolicyAccept$chkPrivacyPolicy"></span>
+		</div>
+		<div class="labelWrap">
+			<label for="ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_chkPrivacyPolicy">By ticking this box, you are agreeing to our <a id="ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_lnkPrivacyPolicy" class="bodyLink" href="/bra/privacy-policy" target="_blank">Privacy Policy</a></label>
+		</div>
+		<div class="validationWrap">
+			<span id="ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_valPrivacyPolicy" style="display:none;">You must agree to our Privacy Policy</span>
+		</div>
+	</div>
+</div>
+
+						
+
+
+<div style="display: none;">
+	<label for="ctl00_ctl00_Footer_NewsletterSignup_HumanVerification_txtTelephone" id="ctl00_ctl00_Footer_NewsletterSignup_HumanVerification_lblTelephone">Please ignore this field</label>
+	<input name="ctl00$ctl00$Footer$NewsletterSignup$HumanVerification$txtTelephone" type="text" id="ctl00_ctl00_Footer_NewsletterSignup_HumanVerification_txtTelephone">
+	<input type="hidden" name="ctl00$ctl00$Footer$NewsletterSignup$HumanVerification$hdnTimeStamp" id="ctl00_ctl00_Footer_NewsletterSignup_HumanVerification_hdnTimeStamp" value="08/09/2017 04:06:31">
+</div>
+
+                        <a onclick="Crafted.Site.TrackingProvider.TrackEvent('newsletter', 'click', 'footer', 'Newsletter');" id="ctl00_ctl00_Footer_NewsletterSignup_btnSubmit" class="button expand" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ctl00$Footer$NewsletterSignup$btnSubmit", "", true, "Newsletter", "", false, true))'>CADASTRE-SE E RECEBA NOSSO BOLETIM INFORMATIVO</a>
+                    
+		</div>
+                
+        
+	</div>
+    <div id="ctl00_ctl00_Footer_NewsletterSignup_uppNewsletterForm" style="display:none;" role="status" aria-hidden="true">
+		
+            <div id="ctl00_ctl00_Footer_NewsletterSignup_ajaxSpinner_pnlSpinnerWrapper" class="spinnerPosition">
+			
+    <div class="spinner">
+        <div class="spinnerContents">
+            <span class="spinnerWhite" title="Carregando"></span>
+        </div>
+    </div>
+
+		</div>
+
+        
+	</div>
+
+</div>
+
+				</div>
+			</div>
+
+			<div class="columns large-4 large-pull-4 ">
+                        
+				
+
+    
+<ul class="footerNav footerColumn">
+    <li>
+        <a id="ctl00_ctl00_Footer_FooterUpperMenu_hlkServices" title="Serviços" href="/bra/our-services">Serviços</a>
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Footer_FooterUpperMenu_hlkIndustries" title="Indústrias" href="/bra/industries">Indústrias</a>
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Footer_FooterUpperMenu_hlkNotices" title="EU Price Announcements" href="/bra/notices">EU Price Announcements</a>
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Footer_FooterUpperMenu_hlkPress" title="Imprensa" href="/bra/press">Imprensa</a>
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Footer_FooterUpperMenu_hlkHelp" title="Centro de ajuda" href="/bra/help-centre">Centro de ajuda</a>
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Footer_FooterUpperMenu_hlkContact" title="Contato" href="/bra/contact-us">Contato</a>
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Footer_FooterUpperMenu_hlkTools" title="Ferramentas" navigateur="#" href="/bra/help-centre/tools">Ferramentas</a>
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Footer_FooterUpperMenu_hlkGlossary" title="Glossário" href="/bra/help-centre/interactive-shipping-glossary">Glossário</a>
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Footer_FooterUpperMenu_hlkCaseStudies" title="Estudos de caso" href="/bra/case-studies">Estudos de caso</a>
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Footer_FooterUpperMenu_hlkSustainability" title="Sustentabilidade" href="/bra/sustainability">Sustentabilidade</a>
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Footer_FooterUpperMenu_hlkCareers" title="Carreiras" href="/bra/careers">Carreiras</a>
+    </li>
+    <li>
+        <a id="ctl00_ctl00_Footer_FooterUpperMenu_hlkFeedback" title="Feedback" data-reveal-id="feedbackModal" href="/bra/contact-us">Feedback</a>
+                                    
+
+    </li>
+</ul>
+			</div>
+
+		</div>
+
+		
+
+
+<!--SUB FOOTER-->
+<div id="subFooter" class="row footer themeYellow">
+    <div class="columns">
+        <nav>
+            <a id="ctl00_ctl00_Footer_LowerFooterArea_hlkTerms" title="Termos e condições" href="/bra/terms-conditions">Termos e condições</a>
+            <a id="ctl00_ctl00_Footer_LowerFooterArea_hlkSitemap" title="Mapa do site" href="/bra/sitemap">Mapa do site</a>
+            <a id="ctl00_ctl00_Footer_LowerFooterArea_hlkPrivacy" title="Política de privacidade" href="/bra/privacy-policy">Política de privacidade</a>
+            <a id="ctl00_ctl00_Footer_LowerFooterArea_hlkCookies" title="Política de cookies" href="/bra/cookie-policy">Política de cookies</a>
+			<a id="ctl00_ctl00_Footer_LowerFooterArea_hlkContractOfCarriage" title="Contract of carriage" href="/bra/contract-of-carriage">Contract of carriage</a>
+			<a id="ctl00_ctl00_Footer_LowerFooterArea_lnkWorldwideContact" title="Worldwide head office" href="/bra/contact-us?showHQ=true">Worldwide head office</a>
+            
+			<a id="ctl00_ctl00_Footer_LowerFooterArea_lnkEuCommitments" title="EU Commitments" href="/staticmedia/Signed_Commitments_160620_fine.pdf" target="_blank">EU Commitments</a>
+			
+			
+        </nav>
+        <p>
+            MSC Mediterranean Shipping do Brasil Ltda, Av. Ana Costa, 291 - 4th Floor, Gonzaga, 11060-917 SANTOS, SAO PAULO<br>as agent only for MSC Mediterranean Shipping Company S.A.<br> © Copyright 2017 - All Rights Reserved
+        </p>
+    </div>
+</div>
+
+		<div id="feedbackModal" class="reveal-modal small fillDarkGrey1 themeYellow" data-reveal="">
+			
+
+<div class="contact-form-compact">
+    
+
+
+
+
+
+<div class="fillDarkGrey1 pod themeYellow" data-equalizer-watch="">
+    <h5>
+        Envie seu feedback
+    </h5>
+    <div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_pnlContactForm" class="panelContactUs" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ctl00_Footer_ContactFormCompact_ContactForm_btnSubmit')">
+	
+        <div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_uPnlContactForm">
+		
+                
+                        <div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ctl00_Footer_ContactFormCompact_ContactForm_btnSubmit')">
+			
+                            <div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName" class="formField">
+				<div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_LabelWrap" class="labelWrap">
+					<label for="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_TextField" id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_FieldLabel">Your name</label>
+				</div><div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_FieldWrap" class="fieldWrap">
+					<input name="ctl00$ctl00$Footer$ContactFormCompact$ContactForm$txtCName$TextField" type="text" id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_TextField" placeholder="Digite seu nome completo">
+				</div><div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_ValidationWrap" class="validationWrap">
+					<span id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator" style="display:none;">Insira um valor válido</span>
+				</div>
+			</div>
+                            <div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail" class="formField">
+				<div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_LabelWrap" class="labelWrap">
+					<label for="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_TextField" id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_FieldLabel">Email address</label>
+				</div><div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_FieldWrap" class="fieldWrap">
+					<input name="ctl00$ctl00$Footer$ContactFormCompact$ContactForm$txtCEmail$TextField" type="text" id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_TextField" placeholder="Digite seu endereço de e-mail">
+				</div><div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_ValidationWrap" class="validationWrap">
+					<span id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator" style="display:none;">Insira um valor válido</span>
+				</div>
+			</div>
+                            <div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone" class="formField">
+				<div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_LabelWrap" class="labelWrap">
+					<label for="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_TextField" id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_FieldLabel">Contact number</label>
+				</div><div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_FieldWrap" class="fieldWrap">
+					<input name="ctl00$ctl00$Footer$ContactFormCompact$ContactForm$txtCPhone$TextField" type="text" id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_TextField" placeholder="Digite seu número de contato (opcional)">
+				</div><div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_ValidationWrap" class="validationWrap">
+					<span id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator" style="display:none;">Insira um valor válido</span>
+				</div>
+			</div>
+                            
+                            <div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage" class="clear-left">
+				<div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_LabelWrap" class="labelWrap">
+					<label for="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_TextField" id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_FieldLabel">Message</label>
+				</div><div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_FieldWrap" class="fieldWrap">
+					<textarea name="ctl00$ctl00$Footer$ContactFormCompact$ContactForm$txtCMessage$TextField" rows="2" cols="20" id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_TextField" placeholder="Digite sua mensagem aqui..."></textarea>
+				</div><div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_ValidationWrap" class="validationWrap">
+					<span id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator" style="display:none;">Insira um valor válido</span>
+				</div>
+			</div>							
+                            <div class="checkboxWrapper clearfix">
+	                            <div class="fieldAndLabelWrap formField check">
+		                            <div class="fieldWrap">
+			                            <span class="fancyFormCheckbox"><input id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_chkNewsletter" type="checkbox" name="ctl00$ctl00$Footer$ContactFormCompact$ContactForm$chkNewsletter"></span>
+		                            </div>
+		                            <div class="labelWrap">
+			                            <label for="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_chkNewsletter">Sign up to the MSC newsletter</label>
+		                            </div>
+	                            </div>
+                            </div> 
+                            
+
+<div class="checkboxWrapper clearfix">
+	<div class="fieldAndLabelWrap formField check selected">
+		<div class="fieldWrap">
+			<span class="fancyFormCheckbox"><input id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_chkPrivacyPolicy" type="checkbox" name="ctl00$ctl00$Footer$ContactFormCompact$ContactForm$PrivacyPolicyAccept$chkPrivacyPolicy"></span>
+		</div>
+		<div class="labelWrap">
+			<label for="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_chkPrivacyPolicy">By ticking this box, you are agreeing to our <a id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_lnkPrivacyPolicy" class="bodyLink" href="/bra/privacy-policy" target="_blank">Privacy Policy</a></label>
+		</div>
+		<div class="validationWrap">
+			<span id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_valPrivacyPolicy" style="display:none;">You must agree to our Privacy Policy</span>
+		</div>
+	</div>
+</div>
+
+							
+
+
+<div style="display: none;">
+	<label for="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_HumanVerification_txtTelephone" id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_HumanVerification_lblTelephone">Please ignore this field</label>
+	<input name="ctl00$ctl00$Footer$ContactFormCompact$ContactForm$HumanVerification$txtTelephone" type="text" id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_HumanVerification_txtTelephone">
+	<input type="hidden" name="ctl00$ctl00$Footer$ContactFormCompact$ContactForm$HumanVerification$hdnTimeStamp" id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_HumanVerification_hdnTimeStamp" value="08/09/2017 04:06:31">
+</div>
+
+                            <input type="submit" name="ctl00$ctl00$Footer$ContactFormCompact$ContactForm$btnSubmit" value="Envie meu pedido" onclick="Crafted.Site.TrackingProvider.TrackEvent('feedback', 'click', 'send my enquiry', 'ctl00$ctl00$Footer$ContactFormCompact$ContactForm');WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$Footer$ContactFormCompact$ContactForm$btnSubmit&quot;, &quot;&quot;, true, &quot;ctl00$ctl00$Footer$ContactFormCompact$ContactForm&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_btnSubmit" class="button expand btn btn-primary">
+                        
+		</div>
+                    
+            
+	</div>
+        <div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_uppContactForm" style="display:none;" role="status" aria-hidden="true">
+		
+                <div id="ctl00_ctl00_Footer_ContactFormCompact_ContactForm_ajaxSpinner_pnlSpinnerWrapper" class="spinnerPosition">
+			
+    <div class="spinner">
+        <div class="spinnerContents">
+            <span class="spinnerWhite" title="Carregando"></span>
+        </div>
+    </div>
+
+		</div>
+
+            
+	</div>
+    
+</div>
+</div>
+
+
+
+</div>
+			<a id="ctl00_ctl00_Footer_hlkClose" title="Fechar" class="close-reveal-modal">
+				<span class="modalCloseIcon" title="Close"></span>
+			</a>
+        
+		</div>
+    </div>
+</footer>
+
+
+
+
+				</div>
+				<!--END .pageContent-->
+			</div>
+			<!--END .inner-wrap -->
+		</div>
+		<!--END .off-canvas-wrap-->
+
+		<script src="/CMSGlobalFiles/js/footerScripts.min.js?v=1.53"></script>
+
+		
+    
+
+
+
+		
+
+<div id="cookiePolicyModal" class="pageInfoPanel priority hide">
+	<div class="row">
+		<div class="column small-12 infoWrapper">
+			<a class="panelClose js-cookieAccept" href="#"></a>
+			<p>Ao continuar navegando no site, você concordará com a nossa <a href="/bra/privacy-policy" target="_blank">Política de Privacidade</a>, <a href="/bra/terms-conditions" target="_blank">Termos e Condições</a>, e o <a href="/bra/cookie-policy" target="_blank">uso de cookies</a></p>
+                
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+    $(function () {
+        
+    	if (window.disableCookiePolicy == undefined) {
+
+    		var cookiePolicyId = 'cookiePolicyApproved';
+    		if (!$.cookie(cookiePolicyId)) {
+    			// Show the cookie policy confirmation
+    			setTimeout(function () {
+    				var cookiePolicyBanner = $('#cookiePolicyModal');
+    				cookiePolicyBanner.show();
+    				$('body').css('margin-top', cookiePolicyBanner.outerHeight() + 'px');
+    			}, 500);
+    			$('.js-cookieAccept').on('click', function () {
+    				$.cookie(cookiePolicyId, 'true', { expires: 90, path: '/' });
+    				$('#cookiePolicyModal').hide();
+    				$('body').css('margin-top', '0');
+    			});
+    		}
+    	}
+    });
+</script>
+        
+		
+
+<div id="emailPrefsModal" class="reveal-modal tiny routeFinderModal email-prefs-modal" data-reveal="">
+	<div class="themeYellow copyPanel">
+		<div class="left-align">
+			<h3>Email Preferences</h3>
+		</div>
+		<div id="ctl00_ctl00_UpdateEmailPreferencesModal_updDeparturesEmail">
+	
+				<div id="ctl00_ctl00_UpdateEmailPreferencesModal_pnlForm" class="pseudoForm" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ctl00_UpdateEmailPreferencesModal_btnSubmit')">
+		
+					<div class="left-align">
+						<p>Please enter your email address below and we will send you an email containing a link which will allow you to edit your preferences.</p>
+					</div>
+					<div>
+						<div id="ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail">
+			<div id="ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_LabelWrap" class="labelWrap">
+				<label for="ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_TextField" id="ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_FieldLabel"></label>
+			</div><div id="ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_FieldWrap" class="fieldWrap">
+				<input name="ctl00$ctl00$UpdateEmailPreferencesModal$txtEmail$TextField" type="text" id="ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_TextField" placeholder="Email Address*">
+			</div><div id="ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_ValidationWrap" class="validationWrap">
+				<span id="ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator" style="display:none;">Please enter a valid email address</span>
+			</div>
+		</div>
+						
+					</div>
+					<div>
+						<div id="ctl00_ctl00_UpdateEmailPreferencesModal_ajaxSpinner_pnlSpinnerWrapper" class="spinnerPosition hiddenSpinner emailPrefSpinner">
+			
+    <div class="spinner">
+        <div class="spinnerContents">
+            <span class="spinnerWhite" title="Carregando"></span>
+        </div>
+    </div>
+
+		</div>
+
+						<input type="submit" name="ctl00$ctl00$UpdateEmailPreferencesModal$btnSubmit" value="Submit" onclick="if (Page_ClientValidate('EmailPrefsGroup')) { $('.emailPrefSpinner').show(); };WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$UpdateEmailPreferencesModal$btnSubmit&quot;, &quot;&quot;, true, &quot;EmailPrefsGroup&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_UpdateEmailPreferencesModal_btnSubmit" class="button expand altButton">
+					</div>
+				
+	</div>
+				
+			
+</div>
+	</div>
+	<a class="close-reveal-modal">
+		<span class="modalCloseIcon" title="Close"></span>
+	</a>
+</div>
+
+
+		
+
+		<!--[if lt IE 9]>
+	        <div class="pageInfoPanel">
+		        <div class="row">
+			        <div class="column small-12 infoWrapper">
+				        <h4 class="icon-info">Your browser is out of date. It has known security flaws and may not display all features of this and other websites. <a target="_blank" href="http://browsehappy.com/">Learn how to update your browser</a></h4>
+				        <a class="panelClose" href="#"></a>
+			        </div>
+		        </div>
+	        </div>
+        <![endif]-->
+
+	
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator"), document.getElementById("ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator"), document.getElementById("ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator"), document.getElementById("ctl00_ctl00_Header_ScheduleSearch_valDate"), document.getElementById("ctl00_ctl00_Header_ScheduleSearch_compDate"), document.getElementById("ctl00_ctl00_Header_ScheduleSearch_reqDate"), document.getElementById("ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_RequiredValidator"), document.getElementById("ctl00_ctl00_Header_SearchBox2_fldSearchText_RequiredValidator"), document.getElementById("ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator"), document.getElementById("ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator"), document.getElementById("ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator"), document.getElementById("ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator"), document.getElementById("ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator"), document.getElementById("ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator"), document.getElementById("ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator"), document.getElementById("ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator"), document.getElementById("ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_valPrivacyPolicy"), document.getElementById("ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator"), document.getElementById("ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator"), document.getElementById("ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator"), document.getElementById("ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator"), document.getElementById("ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_valPrivacyPolicy"), document.getElementById("ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_valPrivacyPolicy = document.all ? document.all["ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_valPrivacyPolicy"] : document.getElementById("ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_valPrivacyPolicy");
+ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_valPrivacyPolicy.CheckBox = "ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_chkPrivacyPolicy";
+ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_valPrivacyPolicy.errormessage = "You must agree to our Privacy Policy";
+ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_valPrivacyPolicy.display = "Dynamic";
+ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_valPrivacyPolicy.validationGroup = "Newsletter";
+ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_valPrivacyPolicy.evaluationfunction = "CustomValidatorEvaluateIsValid";
+ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_valPrivacyPolicy.clientvalidationfunction = "Crafted.Forms.currentFormMethods.ValidateCheckbox";
+var ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_valPrivacyPolicy = document.all ? document.all["ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_valPrivacyPolicy"] : document.getElementById("ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_valPrivacyPolicy");
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_valPrivacyPolicy.CheckBox = "ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_chkPrivacyPolicy";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_valPrivacyPolicy.errormessage = "You must agree to our Privacy Policy";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_valPrivacyPolicy.display = "Dynamic";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_valPrivacyPolicy.validationGroup = "ctl00$ctl00$Footer$ContactFormCompact$ContactForm";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_valPrivacyPolicy.evaluationfunction = "CustomValidatorEvaluateIsValid";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_valPrivacyPolicy.clientvalidationfunction = "Crafted.Forms.currentFormMethods.ValidateCheckbox";
+var ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator = document.all ? document.all["ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator"] : document.getElementById("ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator");
+ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator.controltovalidate = "ctl00_ctl00_Header_TrackSearch_txtBolSearch_TextField";
+ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator.errormessage = "Please input a tracking number, container number or BOL number";
+ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator.validationGroup = "HeaderTracking";
+ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_Header_TrackSearch_txtBolSearch\').className  = isValid ? \' singleton\' : \' singleton error\'; }";
+ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator.initialvalue = "";
+ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator.validationexpression = "([\\s\\S]{2,30})";
+ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;if (!RequiredFieldValidatorEvaluateIsValid(val)) isValid = false;if (!RegularExpressionValidatorEvaluateIsValid(val)) isValid = false;return isValid;}";
+var ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator = document.all ? document.all["ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator"] : document.getElementById("ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator");
+ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator.controltovalidate = "ctl00_ctl00_Header_ScheduleSearch_txtorigin_TextField";
+ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator.errormessage = "Please select a valid load port";
+ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator.validationGroup = "HeaderSchedules";
+ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_Header_ScheduleSearch_txtorigin\').className  = isValid ? \'\' : \' error\'; }";
+ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator.initialvalue = "";
+ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator.validationexpression = "";
+ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;if (!RequiredFieldValidatorEvaluateIsValid(val)) isValid = false;return isValid;}";
+var ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator = document.all ? document.all["ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator"] : document.getElementById("ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator");
+ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator.controltovalidate = "ctl00_ctl00_Header_ScheduleSearch_txtdestination_TextField";
+ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator.errormessage = "Please select a valid discharge port";
+ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator.validationGroup = "HeaderSchedules";
+ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_Header_ScheduleSearch_txtdestination\').className  = isValid ? \'\' : \' error\'; }";
+ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator.initialvalue = "";
+ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator.validationexpression = "";
+ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;if (!RequiredFieldValidatorEvaluateIsValid(val)) isValid = false;return isValid;}";
+var ctl00_ctl00_Header_ScheduleSearch_valDate = document.all ? document.all["ctl00_ctl00_Header_ScheduleSearch_valDate"] : document.getElementById("ctl00_ctl00_Header_ScheduleSearch_valDate");
+ctl00_ctl00_Header_ScheduleSearch_valDate.controltovalidate = "ctl00_ctl00_Header_ScheduleSearch_txtDate";
+ctl00_ctl00_Header_ScheduleSearch_valDate.errormessage = "Please enter a date that is less than 11 weeks in the past";
+ctl00_ctl00_Header_ScheduleSearch_valDate.display = "Dynamic";
+ctl00_ctl00_Header_ScheduleSearch_valDate.validationGroup = "HeaderSchedules";
+ctl00_ctl00_Header_ScheduleSearch_valDate.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_Header_ScheduleSearch_valDate.innerEvaluationFunction = "CascadeValidatorEvaluateIsValid";
+ctl00_ctl00_Header_ScheduleSearch_valDate.groupToValidate = "HeaderSchedules_DatePart";
+ctl00_ctl00_Header_ScheduleSearch_valDate.validatorBlockId = "ctl00_ctl00_Header_ScheduleSearch_pnlDateBlock";
+ctl00_ctl00_Header_ScheduleSearch_valDate.afterEvaluationFunction = "UpdateParentValidation";
+var ctl00_ctl00_Header_ScheduleSearch_compDate = document.all ? document.all["ctl00_ctl00_Header_ScheduleSearch_compDate"] : document.getElementById("ctl00_ctl00_Header_ScheduleSearch_compDate");
+ctl00_ctl00_Header_ScheduleSearch_compDate.controltovalidate = "ctl00_ctl00_Header_ScheduleSearch_txtDate";
+ctl00_ctl00_Header_ScheduleSearch_compDate.errormessage = "Date cannot be more than 11 weeks in the past";
+ctl00_ctl00_Header_ScheduleSearch_compDate.display = "Dynamic";
+ctl00_ctl00_Header_ScheduleSearch_compDate.validationGroup = "HeaderSchedules_DatePart";
+ctl00_ctl00_Header_ScheduleSearch_compDate.type = "Date";
+ctl00_ctl00_Header_ScheduleSearch_compDate.dateorder = "dmy";
+ctl00_ctl00_Header_ScheduleSearch_compDate.cutoffyear = "2029";
+ctl00_ctl00_Header_ScheduleSearch_compDate.century = "2000";
+ctl00_ctl00_Header_ScheduleSearch_compDate.evaluationfunction = "CompareValidatorEvaluateIsValid";
+ctl00_ctl00_Header_ScheduleSearch_compDate.valuetocompare = "2017-06-23";
+ctl00_ctl00_Header_ScheduleSearch_compDate.operator = "GreaterThanEqual";
+var ctl00_ctl00_Header_ScheduleSearch_reqDate = document.all ? document.all["ctl00_ctl00_Header_ScheduleSearch_reqDate"] : document.getElementById("ctl00_ctl00_Header_ScheduleSearch_reqDate");
+ctl00_ctl00_Header_ScheduleSearch_reqDate.controltovalidate = "ctl00_ctl00_Header_ScheduleSearch_txtDate";
+ctl00_ctl00_Header_ScheduleSearch_reqDate.errormessage = "Please enter a date";
+ctl00_ctl00_Header_ScheduleSearch_reqDate.display = "Dynamic";
+ctl00_ctl00_Header_ScheduleSearch_reqDate.validationGroup = "HeaderSchedules_DatePart";
+ctl00_ctl00_Header_ScheduleSearch_reqDate.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_ctl00_Header_ScheduleSearch_reqDate.initialvalue = "";
+var ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_RequiredValidator = document.all ? document.all["ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_RequiredValidator"] : document.getElementById("ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_RequiredValidator");
+ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_RequiredValidator.controltovalidate = "ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_DropDownField";
+ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_RequiredValidator.errormessage = "Select a valid range for your results";
+ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_RequiredValidator.validationGroup = "HeaderSchedules";
+ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut\').className  = isValid ? \'\' : \' error\'; }";
+ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_RequiredValidator.innerEvaluationFunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_RequiredValidator.initialvalue = "";
+var ctl00_ctl00_Header_SearchBox2_fldSearchText_RequiredValidator = document.all ? document.all["ctl00_ctl00_Header_SearchBox2_fldSearchText_RequiredValidator"] : document.getElementById("ctl00_ctl00_Header_SearchBox2_fldSearchText_RequiredValidator");
+ctl00_ctl00_Header_SearchBox2_fldSearchText_RequiredValidator.controltovalidate = "ctl00_ctl00_Header_SearchBox2_fldSearchText_TextField";
+ctl00_ctl00_Header_SearchBox2_fldSearchText_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_Header_SearchBox2_fldSearchText_RequiredValidator.validationGroup = "headerSearch";
+ctl00_ctl00_Header_SearchBox2_fldSearchText_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_Header_SearchBox2_fldSearchText_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_Header_SearchBox2_fldSearchText_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_Header_SearchBox2_fldSearchText\').className  = isValid ? \'\' : \' error\'; }";
+ctl00_ctl00_Header_SearchBox2_fldSearchText_RequiredValidator.initialvalue = "";
+ctl00_ctl00_Header_SearchBox2_fldSearchText_RequiredValidator.validationexpression = "^[\\s\\S]{3,64}$";
+ctl00_ctl00_Header_SearchBox2_fldSearchText_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;if (!RequiredFieldValidatorEvaluateIsValid(val)) isValid = false;if (!RegularExpressionValidatorEvaluateIsValid(val)) isValid = false;return isValid;}";
+var ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator = document.all ? document.all["ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator"] : document.getElementById("ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator");
+ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator.controltovalidate = "ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_TextField";
+ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator.errormessage = "Please input a tracking number, container number or BOL number";
+ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator.validationGroup = "BolSearchPage";
+ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch\').className  = isValid ? \' singleton\' : \' singleton error\'; }";
+ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator.initialvalue = "";
+ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator.validationexpression = "([\\s\\S]{2,30})";
+ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;if (!RequiredFieldValidatorEvaluateIsValid(val)) isValid = false;if (!RegularExpressionValidatorEvaluateIsValid(val)) isValid = false;return isValid;}";
+var ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator = document.all ? document.all["ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator"] : document.getElementById("ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator");
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator.controltovalidate = "ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_TextField";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator.errormessage = "please enter the recipients name";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator.validationGroup = "sendToFriend-0079f5ae-1d8b-4510-b273-7723ab238de6";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName\').className  = isValid ? \'\' : \' error\'; }";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator.initialvalue = "";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator.validationexpression = "";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;if (!RequiredFieldValidatorEvaluateIsValid(val)) isValid = false;return isValid;}";
+var ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator = document.all ? document.all["ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator"] : document.getElementById("ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator");
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator.controltovalidate = "ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_TextField";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator.errormessage = "please use a valid to email address";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator.validationGroup = "sendToFriend-0079f5ae-1d8b-4510-b273-7723ab238de6";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail\').className  = isValid ? \'\' : \' error\'; }";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator.initialvalue = "";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator.validationexpression = "^[_a-z0-9-]+(\\.[_a-z0-9-\\+]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;if (!RequiredFieldValidatorEvaluateIsValid(val)) isValid = false;if (!RegularExpressionValidatorEvaluateIsValid(val)) isValid = false;return isValid;}";
+var ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator = document.all ? document.all["ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator"] : document.getElementById("ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator");
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator.controltovalidate = "ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_TextField";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator.errormessage = "please enter your name";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator.validationGroup = "sendToFriend-0079f5ae-1d8b-4510-b273-7723ab238de6";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName\').className  = isValid ? \'\' : \' error\'; }";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator.initialvalue = "";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator.validationexpression = "";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;if (!RequiredFieldValidatorEvaluateIsValid(val)) isValid = false;return isValid;}";
+var ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator = document.all ? document.all["ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator"] : document.getElementById("ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator");
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator.controltovalidate = "ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_TextField";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator.errormessage = "please use a valid from email address";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator.validationGroup = "sendToFriend-0079f5ae-1d8b-4510-b273-7723ab238de6";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail\').className  = isValid ? \'\' : \' error\'; }";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator.initialvalue = "";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator.validationexpression = "^[_a-z0-9-]+(\\.[_a-z0-9-\\+]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$";
+ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;if (!RequiredFieldValidatorEvaluateIsValid(val)) isValid = false;if (!RegularExpressionValidatorEvaluateIsValid(val)) isValid = false;return isValid;}";
+var ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator = document.all ? document.all["ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator"] : document.getElementById("ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator");
+ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator.controltovalidate = "ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_TextField";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator.errormessage = "Insira um valor válido";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator.validationGroup = "Newsletter";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName\').className  = isValid ? \'\' : \' error\'; }";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator.initialvalue = "";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator.validationexpression = "";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;if (!RequiredFieldValidatorEvaluateIsValid(val)) isValid = false;return isValid;}";
+var ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator = document.all ? document.all["ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator"] : document.getElementById("ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator");
+ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator.controltovalidate = "ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_TextField";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator.errormessage = "Insira um valor válido";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator.validationGroup = "Newsletter";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName\').className  = isValid ? \'\' : \' error\'; }";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator.initialvalue = "";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator.validationexpression = "";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;if (!RequiredFieldValidatorEvaluateIsValid(val)) isValid = false;return isValid;}";
+var ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator = document.all ? document.all["ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator"] : document.getElementById("ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator");
+ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator.controltovalidate = "ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_TextField";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator.errormessage = "Insira um valor válido";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator.validationGroup = "Newsletter";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail\').className  = isValid ? \'\' : \' error\'; }";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator.initialvalue = "";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator.validationexpression = "^([\\w-\\.]+)@((\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.)|(([\\w-]+\\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\\]?)$";
+ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;if (!RequiredFieldValidatorEvaluateIsValid(val)) isValid = false;if (!RegularExpressionValidatorEvaluateIsValid(val)) isValid = false;return isValid;}";
+var ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator = document.all ? document.all["ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator"] : document.getElementById("ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator");
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator.controltovalidate = "ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_TextField";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator.errormessage = "Insira um valor válido";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator.validationGroup = "ctl00$ctl00$Footer$ContactFormCompact$ContactForm";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName\').className  = isValid ? \'formField\' : \'formField error\'; }";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator.initialvalue = "";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator.validationexpression = "";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;if (!RequiredFieldValidatorEvaluateIsValid(val)) isValid = false;return isValid;}";
+var ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator = document.all ? document.all["ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator"] : document.getElementById("ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator");
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator.controltovalidate = "ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_TextField";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator.errormessage = "Insira um valor válido";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator.validationGroup = "ctl00$ctl00$Footer$ContactFormCompact$ContactForm";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail\').className  = isValid ? \'formField\' : \'formField error\'; }";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator.initialvalue = "";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator.validationexpression = "^([\\w-\\.]+)@((\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.)|(([\\w-]+\\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\\]?)$";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;if (!RequiredFieldValidatorEvaluateIsValid(val)) isValid = false;if (!RegularExpressionValidatorEvaluateIsValid(val)) isValid = false;return isValid;}";
+var ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator = document.all ? document.all["ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator"] : document.getElementById("ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator");
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator.controltovalidate = "ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_TextField";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator.errormessage = "Insira um valor válido";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator.enabled = "False";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator.validationGroup = "ctl00$ctl00$Footer$ContactFormCompact$ContactForm";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone\').className  = isValid ? \'formField\' : \'formField error\'; }";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator.initialvalue = "";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator.validationexpression = "";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;return isValid;}";
+var ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator = document.all ? document.all["ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator"] : document.getElementById("ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator");
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator.controltovalidate = "ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_TextField";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator.errormessage = "Insira um valor válido";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator.validationGroup = "ctl00$ctl00$Footer$ContactFormCompact$ContactForm";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage\').className  = isValid ? \'clear-left\' : \'clear-left error\'; }";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator.initialvalue = "";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator.validationexpression = "";
+ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;if (!RequiredFieldValidatorEvaluateIsValid(val)) isValid = false;return isValid;}";
+var ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator = document.all ? document.all["ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator"] : document.getElementById("ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator");
+ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator.controltovalidate = "ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_TextField";
+ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator.errormessage = "Please enter a valid email address";
+ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator.display = "Dynamic";
+ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator.validationGroup = "EmailPrefsGroup";
+ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator.evaluationfunction = "EnhancedEvaluateIsValid";
+ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator.beforeEvaluationFunction = "";
+ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator.afterEvaluationFunction = "function (isValid) { document.getElementById(\'ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail\').className  = isValid ? \'\' : \' error\'; }";
+ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator.initialvalue = "";
+ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator.validationexpression = "^([\\w-\\.]+)@((\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.)|(([\\w-]+\\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\\]?)$";
+ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator.innerEvaluationFunction = "function(val) {var isValid = true;if (!RequiredFieldValidatorEvaluateIsValid(val)) isValid = false;if (!RegularExpressionValidatorEvaluateIsValid(val)) isValid = false;return isValid;}";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ctl00_ctl00_manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();
+WebForm_InitCallback();
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        $(document).ready(Crafted.Schedule.init);$(document).ready(function () { 
+Crafted.Site.TrackingProvider.AddTracker('');
+Crafted.Site.TrackingProvider.AddTracker('local');
+Crafted.Site.TrackingProvider.ProcessQueue();
+ });
+
+document.getElementById('ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Header_TrackSearch_txtBolSearch_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Header_ScheduleSearch_txtorigin_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Header_ScheduleSearch_txtdestination_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_Header_ScheduleSearch_valDate').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Header_ScheduleSearch_valDate'));
+}
+
+document.getElementById('ctl00_ctl00_Header_ScheduleSearch_compDate').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Header_ScheduleSearch_compDate'));
+}
+
+document.getElementById('ctl00_ctl00_Header_ScheduleSearch_reqDate').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Header_ScheduleSearch_reqDate'));
+}
+
+document.getElementById('ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Header_ScheduleSearch_ddlWeeksOut_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_Header_SearchBox2_fldSearchText_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Header_SearchBox2_fldSearchText_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientName_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldRecipientEmail_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderName_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_plcMain_plcMain_TrackingSendForm_fldSenderEmail_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Footer_NewsletterSignup_txtNLFirstName_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Footer_NewsletterSignup_txtNLLastName_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Footer_NewsletterSignup_txtNLEmail_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_valPrivacyPolicy').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Footer_NewsletterSignup_PrivacyPolicyAccept_valPrivacyPolicy'));
+}
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_ctl00_Footer_NewsletterSignup_uPnlNewsletterForm","displayAfter":500,"dynamicLayout":true}, null, null, $get("ctl00_ctl00_Footer_NewsletterSignup_uppNewsletterForm"));
+});
+
+document.getElementById('ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCName_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCEmail_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCPhone_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Footer_ContactFormCompact_ContactForm_txtCMessage_RequiredValidator'));
+}
+
+document.getElementById('ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_valPrivacyPolicy').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_Footer_ContactFormCompact_ContactForm_PrivacyPolicyAccept_valPrivacyPolicy'));
+}
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_ctl00_Footer_ContactFormCompact_ContactForm_uPnlContactForm","displayAfter":500,"dynamicLayout":true}, null, null, $get("ctl00_ctl00_Footer_ContactFormCompact_ContactForm_uppContactForm"));
+});
+
+document.getElementById('ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_UpdateEmailPreferencesModal_txtEmail_RequiredValidator'));
+}
+//]]>
+</script>
+  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+  <script type="text/javascript"> 
+      //<![CDATA[
+      if (window.WebForm_InitCallback) { 
+        __theFormPostData = '';
+        __theFormPostCollection = new Array();
+        window.WebForm_InitCallback(); 
+      }
+      //]]>
+    </script>
+  </form>
+
+	<!-- Google analytics code-->
+	
+
+
+<script>
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	
+			ga('create', 'UA-55168891-1', 'auto');
+		
+			ga('create', 'UA-55352771-1', 'auto', {'name': 'local'});
+		
+    ga('create', 'UA-55168891-1', { 'siteSpeedSampleRate': 10});
+	ga('require', 'linkid');
+	
+	
+			ga('send', 'pageview', {'dimension1': 'BRA', 'dimension2': 'pt-BR'});
+		
+			ga('local.send', 'pageview');
+		
+</script>
+
+
+	<!-- End of Google analytics code-->
+
+	<!--[if lt IE 10]>
+        <script src="/CMSScripts/Custom/jQuery.placeholder.js"></script>
+        <script type="text/javascript">
+	        $('input, textarea').placeholder();
+        </script>
+    <![endif]-->
+
+	<!-- Internet explorere 8 polyfills -->
+	<!--[if lt IE 9]>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
+		<script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
+		<script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
+		<script src="/CMSScripts/Custom/rem.min.js?v=1.53"></script>
+    <![endif]-->
+
+	<!-- End Body Script Block -->
+	<!-- begin usabilla live embed code -->
+<script type="text/javascript">
+			/*{literal}<![CDATA[*/window.lightningjs || function (c) { function g(b, d) { d && (d += (/\?/.test(d) ? "&" : "?") + "lv=1"); c[b] || function () { var i = window, h = document, j = b, g = h.location.protocol, l = "load", k = 0; (function () { function b() { a.P(l); a.w = 1; c[j]("_load") } c[j] = function () { function m() { m.id = e; return c[j].apply(m, arguments) } var b, e = ++k; b = this && this != i ? this.id || 0 : 0; (a.s = a.s || []).push([e, b, arguments]); m.then = function (b, c, h) { var d = a.fh[e] = a.fh[e] || [], j = a.eh[e] = a.eh[e] || [], f = a.ph[e] = a.ph[e] || []; b && d.push(b); c && j.push(c); h && f.push(h); return m }; return m }; var a = c[j]._ = {}; a.fh = {}; a.eh = {}; a.ph = {}; a.l = d ? d.replace(/^\/\//, (g == "https:" ? g : "http:") + "//") : d; a.p = { 0: +new Date }; a.P = function (b) { a.p[b] = new Date - a.p[0] }; a.w && b(); i.addEventListener ? i.addEventListener(l, b, !1) : i.attachEvent("on" + l, b); var q = function () { function b() { return ["<head></head><", c, ' onload="var d=', n, ";d.getElementsByTagName('head')[0].", d, "(d.", g, "('script')).", i, "='", a.l, "'\"></", c, ">"].join("") } var c = "body", e = h[c]; if (!e) return setTimeout(q, 100); a.P(1); var d = "appendChild", g = "createElement", i = "src", k = h[g]("div"), l = k[d](h[g]("div")), f = h[g]("iframe"), n = "document", p; k.style.display = "none"; e.insertBefore(k, e.firstChild).id = o + "-" + j; f.frameBorder = "0"; f.id = o + "-frame-" + j; /MSIE[ ]+6/.test(navigator.userAgent) && (f[i] = "javascript:false"); f.allowTransparency = "true"; l[d](f); try { f.contentWindow[n].open() } catch (s) { a.domain = h.domain, p = "javascript:var d=" + n + ".open();d.domain='" + h.domain + "';", f[i] = p + "void(0);" } try { var r = f.contentWindow[n]; r.write(b()); r.close() } catch (t) { f[i] = p + 'd.write("' + b().replace(/"/g, String.fromCharCode(92) + '"') + '");d.close();' } a.P(2) }; a.l && setTimeout(q, 0) })() }(); c[b].lv = "1"; return c[b] } var o = "lightningjs", k = window[o] = g(o); k.require = g; k.modules = c }({});
+			if (!navigator.userAgent.match(/Android|BlackBerry|BB10|iPhone|iPad|iPod|Opera Mini|IEMobile/i)) { window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/7d3b507606ec.js"); } else { window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/6b122713293f.js"); }/*]]>{/literal}*/
+</script>
+<!-- end usabilla live embed code -->
+
+<!-- Google Tag Manager -->
+	<noscript>&lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-WZPWRT"
+	height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
+	<script>(function (w, d, s, l, i) {
+	w[l] = w[l] || []; w[l].push({
+		'gtm.start':
+			new Date().getTime(), event: 'gtm.js'
+	}); var f = d.getElementsByTagName(s)[0],
+		j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+		'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-WZPWRT');</script>
+	<!-- End Google Tag Manager -->
+
+
+
+
+<div class="datepicker datepicker-dropdown dropdown-menu"><div class="datepicker-days" style="display: block;"><table class=" table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="fa fa-chevron-left fi-arrow-left"></i></th><th colspan="5" class="date-switch">September 2017</th><th class="next" style="visibility: visible;"><i class="fa fa-chevron-right fi-arrow-right"></i></th></tr><tr><th class="dow">Su</th><th class="dow">Mo</th><th class="dow">Tu</th><th class="dow">We</th><th class="dow">Th</th><th class="dow">Fr</th><th class="dow">Sa</th></tr></thead><tbody><tr><td class="day   old">27</td><td class="day   old">28</td><td class="day   old">29</td><td class="day   old">30</td><td class="day   old">31</td><td class="day  ">1</td><td class="day  ">2</td></tr><tr><td class="day  ">3</td><td class="day  ">4</td><td class="day  ">5</td><td class="day  ">6</td><td class="day   active">7</td><td class="day  ">8</td><td class="day  ">9</td></tr><tr><td class="day  ">10</td><td class="day  ">11</td><td class="day  ">12</td><td class="day  ">13</td><td class="day  ">14</td><td class="day  ">15</td><td class="day  ">16</td></tr><tr><td class="day  ">17</td><td class="day  ">18</td><td class="day  ">19</td><td class="day  ">20</td><td class="day  ">21</td><td class="day  ">22</td><td class="day  ">23</td></tr><tr><td class="day  ">24</td><td class="day  ">25</td><td class="day  ">26</td><td class="day  ">27</td><td class="day  ">28</td><td class="day  ">29</td><td class="day  ">30</td></tr><tr><td class="day   new">1</td><td class="day   new">2</td><td class="day   new">3</td><td class="day   new">4</td><td class="day   new">5</td><td class="day   new">6</td><td class="day   new">7</td></tr></tbody><tfoot><tr><th colspan="7" class="today" style="display: none;">Today</th></tr></tfoot></table></div><div class="datepicker-months" style="display: none;"><table class="table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="fa fa-chevron-left fi-arrow-left"></i></th><th colspan="5" class="date-switch">2017</th><th class="next" style="visibility: visible;"><i class="fa fa-chevron-right fi-arrow-right"></i></th></tr></thead><tbody><tr><td colspan="7"><span class="month disabled">Jan</span><span class="month disabled">Feb</span><span class="month disabled">Mar</span><span class="month disabled">Apr</span><span class="month disabled">May</span><span class="month">Jun</span><span class="month">Jul</span><span class="month">Aug</span><span class="month active">Sep</span><span class="month">Oct</span><span class="month">Nov</span><span class="month">Dec</span></td></tr></tbody><tfoot><tr><th colspan="7" class="today" style="display: none;">Today</th></tr></tfoot></table></div><div class="datepicker-years" style="display: none;"><table class="table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="fa fa-chevron-left fi-arrow-left"></i></th><th colspan="5" class="date-switch">2010-2019</th><th class="next" style="visibility: visible;"><i class="fa fa-chevron-right fi-arrow-right"></i></th></tr></thead><tbody><tr><td colspan="7"><span class="year old disabled">2009</span><span class="year disabled">2010</span><span class="year disabled">2011</span><span class="year disabled">2012</span><span class="year disabled">2013</span><span class="year disabled">2014</span><span class="year disabled">2015</span><span class="year disabled">2016</span><span class="year active">2017</span><span class="year">2018</span><span class="year">2019</span><span class="year old">2020</span></td></tr></tbody><tfoot><tr><th colspan="7" class="today" style="display: none;">Today</th></tr></tfoot></table></div><a class="button datepicker-close small alert right" style="width:auto;"><i class="fa fa-remove fa-times fi-x">Close</i></a></div><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="z-index: 41; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-2" tabindex="0" style="z-index: 41; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-3" tabindex="0" style="z-index: 41; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-4" tabindex="0" style="z-index: 41; display: none;"></ul><script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "Organization",
+  "name" : "Mediteranean Shipping Company",
+  "url": "https://www.msc.com/",
+  "logo": "https://www.msc.com/App_Themes/CraftedCMS/Images/mediterranean-shipping-company-logo-wide.png",
+  "sameAs" : [
+   "https://www.facebook.com/MSC-Mediterranean-Shipping-Company-SA-189957207721825/", 
+   "https://plus.google.com/107642518955416558734/about",
+   "https://www.linkedin.com/company/msc-mediterranean-shipping-co--s-a-"]
+}
+</script></body></html>
