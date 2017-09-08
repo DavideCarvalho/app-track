@@ -1,5 +1,6 @@
 from flask import Flask
-from flask import jsonify
+import json
+from flask import Response
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -23,7 +24,7 @@ def index():
     tableMovements = WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.CLASS_NAME, "resultTable"))
     )
-    response = []
+    movements = []
     for row in tableMovements.find_elements_by_xpath(".//tbody"):
         print(row.text)
         for th in row.find_elements_by_xpath(".//tr"):
@@ -47,8 +48,8 @@ def index():
                 else:
                     movement[td.get_attribute('data-title')] = td.text
                 print(td.get_attribute('data-title') + ": " + td.text)
-            response.append(movement)
-    return jsonify(movements = response)
+            movements.append(movement)
+    return Response(json.dumps(movements),  mimetype='application/json')
 
 if __name__ == '__main__':
     app.run(debug=True)
