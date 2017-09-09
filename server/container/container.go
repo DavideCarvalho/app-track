@@ -1,31 +1,46 @@
 package container
 
 import (
-	"github.com/go-bongo/bongo"
 	"net/http"
-	"io/ioutil"
 	"encoding/json"
-	"../database"
+	"github.com/gorilla/mux"
+	"io/ioutil"
 )
 
-// Container Struct para adicionar o container na base de dados
-type Container struct {
-	bongo.DocumentBase `bson:",inline"`
-	IDContainer        string `json:"idContainer"`
-	NomeEmpresa        string `json:"nomeEmpresa"`
+type ContainerMovement struct {
+	Time string `json:"time"`
+	Location string `json:"location"`
+	Description string `json:"description"`
+	Date string `json:"date"`
+	Vessel string `json:"vessel"`
+	Voyage string `json:"voyage"`
 }
 
-//AddNewContainer add container to MongoDB database
-func AddNewContainer(w http.ResponseWriter, r *http.Request) {
-	databaseConnection := database.GetDatabaseConnection()
-	containerDatabase := returnContainerToInsertToDatabase(r)
-	databaseConnection.Collection("containers").Save(containerDatabase)
-	json.NewEncoder(w).Encode(containerDatabase)
+type ContainerMovementsJson struct {
+	Company string `json:"company"`
+	ContainerMovement []ContainerMovement `json:"containerMovements"`
 }
 
-func returnContainerToInsertToDatabase(r *http.Request) *Container {
-	var container Container
-	b, _ := ioutil.ReadAll(r.Body)
-	json.Unmarshal(b, &container)
-	return &container
+//GetContainerMovements add container to MongoDB database
+func GetContainerMovements(w http.ResponseWriter, r *http.Request) {
+	requestVariables := mux.Vars(r)["containerId"]
+	scrapperResponse, err := http.Get("http://localhost:5000/msc/"+requestVariables)
+	checkErr(err)
+	ReturnScrapperContentAsJson(scrapperResponse, w)
+}
+
+func ReturnScrapperContentAsJson(scrapperResponse *http.Response, w http.ResponseWriter) {
+	containerMovements, err := ioutil.ReadAll(scrapperResponse.Body)
+	checkErr(err)
+	var containerMovementsMarshal []ContainerMovement
+	json.Unmarshal(containerMovements, &containerMovementsMarshal)
+	containerMovementsJson := ContainerMovementsJson{"MSC", containerMovementsMarshal}
+	w.Header().Set("content-type", "application/json")
+	json.NewEncoder(w).Encode(containerMovementsJson)
+}
+
+func checkErr(err error) {
+	if err != nil {
+		panic(err)
+	}
 }
