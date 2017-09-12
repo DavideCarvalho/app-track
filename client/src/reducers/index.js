@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux';
-import CursosReducer from './reducer_cursos.js';
+import ContainerReducer from './reducer_containers';
 
 const rootReducer = combineReducers({
-  cursos: CursosReducer
-});
+  container: ContainerReducer
+});                                   
 
 export default rootReducer;

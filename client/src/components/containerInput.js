@@ -1,6 +1,8 @@
 import React, {Component} from 'react';
+import {addContainer, containerInputChange} from '../actions/containers'
+import {connect} from 'react-redux'
 
-export default class ContainerInput extends Component {
+class ContainerInput extends Component {
   render() {
     return (
       <div className="row no-gutters">
@@ -9,12 +11,25 @@ export default class ContainerInput extends Component {
             type="text"
             className="form-control"
             id="inlineFormInputName2"
-            placeholder="Número de container"/>
+            placeholder="Número de container"
+            value={this.props.container.containerInput}
+            onInput={(e) => this.props.containerInputChange(e.target.value)}/>
         </div>
         <div className="col-1">
-          <button type="submit" className="btn btn-outline-primary">+</button>
+          <button
+            type="submit"
+            className="btn btn-outline-primary"
+            onClick={() => this.props.addContainer(this.props.container.containerInput)}>+</button>
         </div>
       </div>
     )
   }
 }
+
+function mapStateToProps(state) {
+  return {
+    container: state.container
+  }
+}
+
+export default connect(mapStateToProps, { addContainer, containerInputChange })(ContainerInput)

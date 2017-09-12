@@ -1,23 +1,32 @@
-import React, { Component } from 'react'
+import React, {Component} from 'react'
+import _ from 'lodash'
 import Card from './card'
+import { connect } from 'react-redux'
 
-export default class CardList extends Component {
-  render () {
-    const container1 = {
-      id: 100
-    };
-    const container2 = {
-      id: 101
-    };
-    const container3 = {
-      id: 102
-    };
+class CardList extends Component {
+  renderCardList () {
+    if (!this.props.container){
+      return;
+    }
+    return _.map(this.props.container.containers, container => {
+      return (
+        <Card container={container} key={container.id}/>
+      )
+    })
+  }
+  render() {
     return (
       <div className="row">
-        <Card container={container1}/>
-        <Card container={container2}/>
-        <Card container={container3}/>
+        {this.renderCardList()}
       </div>
     )
   }
 }
+
+function mapStateToProps(state) {
+  return {
+    container: state.container
+  }
+}
+
+export default connect(mapStateToProps)(CardList)

@@ -1,8 +1,15 @@
-import React, {Component} from 'react'
-import {findDOMNode} from 'react-dom';
+import React, { Component } from 'react'
+import { findDOMNode } from 'react-dom';
+import { fetchContainer } from '../actions/containers'
+import { connect } from 'react-redux'
 import $ from 'jquery';
 
-export default class Card extends Component {
+class Card extends Component {
+
+  componentDidMount () {
+    this.props.fetchContainer(this.props.container.id)
+  }
+
   toggleCardBody() {
     const card = findDOMNode(this.refs.cardBody);
     $(card).slideToggle();
@@ -22,3 +29,5 @@ export default class Card extends Component {
     )
   }
 }
+
+export default connect(null, { fetchContainer })(Card)
