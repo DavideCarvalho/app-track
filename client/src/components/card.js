@@ -7,7 +7,7 @@ import $ from 'jquery';
 class Card extends Component {
 
   componentDidMount () {
-    this.props.fetchContainer(this.props.container.id)
+    this.props.fetchContainer(this.props.container.id, this.props.index)
   }
 
   toggleCardBody() {

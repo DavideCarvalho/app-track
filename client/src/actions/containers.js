@@ -10,11 +10,15 @@ export function containerInputChange (containerId) {
 }
 
 export const FETCH_CONTAINER = 'fetch_container'
-export function fetchContainer (containerId) {
-  const containerMovements = axios.get(`${ROOT_URL}/container/${containerId}`);
+export async function fetchContainer (containerId, index) {
+  const containerMovements = await axios.get(`${ROOT_URL}/container/${containerId}`);
+  const payload = {
+    containerMovements: containerMovements.data,
+    index: index
+  }
   return {
     type: FETCH_CONTAINER,
-    payload: containerMovements
+    payload: payload
   };
 }
 

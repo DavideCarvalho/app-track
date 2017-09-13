@@ -1,4 +1,5 @@
 import { FETCH_CONTAINER, ADD_CONTAINER, CONTAINER_INPUT_CHANGE } from '../actions/containers.js'
+import update from 'immutability-helper';
 import _ from 'lodash';
 
 const store = {
@@ -21,20 +22,12 @@ export default function (state = store, action) {
         containers: [ ...state.containers, action.payload ],
     }
     case FETCH_CONTAINER:
-      let payloadId = "";
-      for(let i = 0; i < state.containers; i++) {
-        if (state.containers[i].id === action.payload.data.id) {
-          payloadId = i;
-          break;
+    console.log(action.payload)
+      return update(state, { 
+        containers: { 
+          [action.payload.index]: {$set: action.payload.containerMovements}
         }
-      }
-      return {
-        ...state,
-        containers: [
-          ...state.containers[payloadId],
-          action.payload.data
-        ]
-      }
+      })
     default:
       return state;
   }

@@ -8,9 +8,9 @@ class CardList extends Component {
     if (!this.props.container){
       return;
     }
-    return _.map(this.props.container.containers, container => {
+    return _.map(this.props.container.containers, (container, index) => {
       return (
-        <Card container={container} key={container.id}/>
+        <Card container={container} index={index} key={container.id}/>
       )
     })
   }
