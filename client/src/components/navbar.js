@@ -5,7 +5,7 @@ export default class Navbar extends Component {
     return (
       <div>
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
-          <a className="navbar-brand" href="#">AppTrack</a>
+          <a className="navbar-brand">AppTrack</a>
         </nav>
       </div>
     );
