@@ -3,6 +3,17 @@ import {addContainer, containerInputChange} from '../actions/containers'
 import {connect} from 'react-redux'
 
 class ContainerInput extends Component {
+
+  async containerInputChange(value) {
+    try{
+      let retorno = await this.props.containerInputChange(value)
+      console.log(retorno)
+    }
+    catch (e) {
+      console.log('não deu certo')
+    }
+  }
+
   render() {
     return (
       <div className="row no-gutters">
@@ -13,7 +24,7 @@ class ContainerInput extends Component {
             id="inlineFormInputName2"
             placeholder="Número de container"
             value={this.props.container.containerInput}
-            onInput={(e) => this.props.containerInputChange(e.target.value)}/>
+            onInput={(e) => this.containerInputChange(e.target.value)}/>
         </div>
         <div className="col-1">
           <button

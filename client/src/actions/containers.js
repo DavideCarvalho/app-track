@@ -2,25 +2,37 @@ import axios from 'axios';
 const ROOT_URL = 'http://localhost:8081';
 
 export const CONTAINER_INPUT_CHANGE = 'container_input_change'
-export function containerInputChange (containerId) {
-  return {
+export const containerInputChange = (containerId) => (dispatch) => {
+  dispatch({
     type: CONTAINER_INPUT_CHANGE,
     payload: containerId
-  }
+  })
+  return Promise.resolve('funcionou')
 }
 
 export const FETCH_CONTAINER = 'fetch_container'
-export async function fetchContainer (containerId, index) {
+export const fetchContainer = (containerId, index) => async (dispatch) => {
   const containerMovements = await axios.get(`${ROOT_URL}/container/${containerId}`);
   const payload = {
     containerMovements: containerMovements.data,
     index: index
   }
-  return {
+  dispatch({
     type: FETCH_CONTAINER,
     payload: payload
-  };
+  });
 }
+// export async function fetchContainer (containerId, index) {
+//   const containerMovements = await axios.get(`${ROOT_URL}/container/${containerId}`);
+//   const payload = {
+//     containerMovements: containerMovements.data,
+//     index: index
+//   }
+//   return {
+//     type: FETCH_CONTAINER,
+//     payload: payload
+//   };
+// }
 
 export const ADD_CONTAINER = 'add_container'
 export function addContainer (containerId) {
