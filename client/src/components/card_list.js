@@ -10,7 +10,7 @@ class CardList extends Component {
     }
     return _.map(this.props.container.containers, (container, index) => {
       return (
-        <Card container={container} index={index} key={container.id}/>
+        <Card containerId={container.id} index={index} key={container.id}/>
       )
     })
   }

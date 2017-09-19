@@ -7,6 +7,23 @@
           transform: rotateZ(45deg);
 }
 
+.card-buttons {
+  margin-bottom: 50px;
+}
+
+.to-pointer {
+  cursor: pointer;
+  cursor: hand;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.sk-folding-cube {
+  margin-top: 50px;
+}
+
 .sk-folding-cube .sk-cube {
   float: left;
   width: 50%;

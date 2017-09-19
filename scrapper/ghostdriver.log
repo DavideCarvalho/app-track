@@ -1,32 +1,5 @@
-[INFO  - 2017-09-16T12:34:21.352Z] GhostDriver - Main - running on port 62009
-[INFO  - 2017-09-16T12:34:24.596Z] Session [5f52b2a0-9adb-11e7-b7df-73b59554a600] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2017-09-16T12:34:24.596Z] Session [5f52b2a0-9adb-11e7-b7df-73b59554a600] - page.customHeaders:  - {}
-[INFO  - 2017-09-16T12:34:24.597Z] Session [5f52b2a0-9adb-11e7-b7df-73b59554a600] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2017-09-16T12:34:24.597Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5f52b2a0-9adb-11e7-b7df-73b59554a600
-[ERROR - 2017-09-16T12:34:29.599Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1505565269546
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-09-16T12:34:30.943Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1505565270884
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-09-16T12:34:32.112Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1505565272056
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-09-16T12:34:33.316Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1505565273256
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-09-16T12:34:34.424Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1505565274373
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-09-16T12:34:35.566Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1505565275515
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-09-16T12:34:36.754Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1505565276703
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-09-16T12:34:37.941Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1505565277884
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-09-16T12:34:39.164Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1505565279123
-
-  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-09-18T22:21:32.423Z] GhostDriver - Main - running on port 53390
+[INFO  - 2017-09-18T22:21:35.930Z] Session [bba9bf40-9cbf-11e7-bdfe-cb8513a80a9a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-18T22:21:35.930Z] Session [bba9bf40-9cbf-11e7-bdfe-cb8513a80a9a] - page.customHeaders:  - {}
+[INFO  - 2017-09-18T22:21:35.931Z] Session [bba9bf40-9cbf-11e7-bdfe-cb8513a80a9a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-18T22:21:35.931Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: bba9bf40-9cbf-11e7-bdfe-cb8513a80a9a

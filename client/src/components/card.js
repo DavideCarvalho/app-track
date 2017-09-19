@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { findDOMNode } from 'react-dom';
-import { fetchContainer } from '../actions/containers';
+import { fetchContainer, deleteContainer, updateContainer } from '../actions/containers';
 import { connect } from 'react-redux';
 import $ from 'jquery';
 import _ from 'lodash';
@@ -10,6 +10,10 @@ class Card extends Component {
   componentDidMount () {
     $('[data-toggle="tooltip"]').tooltip()
     this.props.fetchContainer(this.props.containerId, this.props.index)
+  }
+
+  componentDidUpdate() {
+    $('[data-toggle="tooltip"]').tooltip();
   }
 
   toggleCardBody() {
@@ -30,6 +34,14 @@ class Card extends Component {
     )
   }
 
+  showErrorFetchingContainer(){
+    return (
+      <div>
+        <h3>Não foi possível rastrear o container</h3>
+      </div>
+    )
+  }
+
   showLastContainerMovement(containerMovements){
     let lastContainerMovement = {};
     _.map(containerMovements, container => {
@@ -46,16 +58,50 @@ class Card extends Component {
     )
   }
 
+  async updateContainer(containerId, index) {
+    try {
+      this.props.updateContainer(containerId, index)
+      $('[data-toggle="tooltip"]').tooltip()
+    } catch (e) {
+      console.error(e)
+    }
+  }
+
   render() {
     return (
       <div className="col-4">
         <div className="card">
           <h4 className="card-header" onClick={() => this.toggleCardBody()}>{this.props.containerId}</h4>
           <div className="card-body" ref="cardBody">
+            <div className="row">
+              <div className="col">
+                <button  className="btn btn-outline-success full-width to-pointer" disabled=
+                  {
+                    this.props.container.containers[this.props.index].containerMovements 
+                    ? this.props.container.containers[this.props.index].containerMovements.length !== 0 
+                      ? false
+                      : true
+                    : true
+                  } 
+                  onClick={() => this.updateContainer(this.props.containerId, this.props.index)}>Atualizar</button>
+              </div>
+              <div className="col">
+                <button className="btn btn-outline-danger full-width to-pointer" disabled=
+                  {
+                    this.props.container.containers[this.props.index].containerMovements 
+                    ? this.props.container.containers[this.props.index].containerMovements.length !== 0 
+                      ? false
+                      : true
+                    : true
+                  } 
+                onClick={() => this.props.deleteContainer(this.props.index)}>Deletar</button></div>
+              </div>
             {
+              this.props.container.containers[this.props.index].containerMovements !== null ?
               this.props.container.containers[this.props.index].containerMovements.length === 0
               ? this.showLoadingContainer()
               : this.showLastContainerMovement(this.props.container.containers[this.props.index].containerMovements)
+              : this.showErrorFetchingContainer()
             }
           </div>
         </div>
@@ -70,4 +116,4 @@ function mapStateToProps(state) {
   }
 }
 
-export default connect(mapStateToProps, { fetchContainer })(Card)
+export default connect(mapStateToProps, { fetchContainer, deleteContainer, updateContainer })(Card)
