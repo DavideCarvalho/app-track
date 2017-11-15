@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { findDOMNode } from 'react-dom';
-import { fetchContainer, deleteContainer, updateContainer } from '../actions/containers';
+import ContainerActions from '../actions/containers';
 import { connect } from 'react-redux';
 import $ from 'jquery';
 import _ from 'lodash';
@@ -45,15 +45,15 @@ class Card extends Component {
   showLastContainerMovement(containerMovements){
     let lastContainerMovement = {};
     _.map(containerMovements, container => {
-      if (container.time === 'present') {lastContainerMovement = {...container}}
+      if (container.Time === 'present') {lastContainerMovement = {...container}}
     })
     return (
       <div>
-        <strong>Data: </strong><span>{lastContainerMovement.date}</span><br/>
-        <strong>Descrição: </strong><span>{lastContainerMovement.description}</span><br/>
-        <strong>Localização: </strong><span>{lastContainerMovement.location}</span><br/>
-        <strong>Navio: </strong><span>{lastContainerMovement.vessel}</span><br/>
-        <strong>Voyage: </strong><span>{lastContainerMovement.voyage}</span><br/>
+        <strong>Data: </strong><span>{lastContainerMovement.Date}</span><br/>
+        <strong>Descrição: </strong><span>{lastContainerMovement.Description}</span><br/>
+        <strong>Localização: </strong><span>{lastContainerMovement.Location}</span><br/>
+        <strong>Navio: </strong><span>{lastContainerMovement.Vessel}</span><br/>
+        <strong>Voyage: </strong><span>{lastContainerMovement.Voyage}</span><br/>
       </div>
     )
   }
@@ -69,7 +69,7 @@ class Card extends Component {
 
   render() {
     return (
-      <div className="col-4">
+      <div className="col-lg-4 col-xl-4 col-sm-12 col-md-12">
         <div className="card">
           <h4 className="card-header" onClick={() => this.toggleCardBody()}>{this.props.containerId}</h4>
           <div className="card-body" ref="cardBody">
@@ -116,4 +116,8 @@ function mapStateToProps(state) {
   }
 }
 
-export default connect(mapStateToProps, { fetchContainer, deleteContainer, updateContainer })(Card)
+export default connect(mapStateToProps, { 
+  fetchContainer: ContainerActions.fetchContainer,
+  deleteContainer: ContainerActions.deleteContainer,
+  updateContainer: ContainerActions.updateContainer
+})(Card)

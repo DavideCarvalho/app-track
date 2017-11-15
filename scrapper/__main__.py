@@ -55,4 +55,4 @@ def get_container_movements(table_movements):
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, threaded=True)

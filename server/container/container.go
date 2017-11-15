@@ -25,7 +25,7 @@ type ContainerMovementsJson struct {
 //GetContainerMovements add container to MongoDB database
 func GetContainerMovements(w http.ResponseWriter, r *http.Request) {
 	containerId := mux.Vars(r)["containerId"]
-	scrapperResponse, err := http.Get("http://localhost:5000/msc/"+containerId)
+	scrapperResponse, err := http.Get("http://localhost:5000/msc/MSCU9706653")
 	checkErr(err)
 	ReturnScrapperContentAsJson(scrapperResponse, w, containerId)
 }
