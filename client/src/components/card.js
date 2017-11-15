@@ -7,6 +7,14 @@ import _ from 'lodash';
 import '../css/card.css'
 
 class Card extends Component {
+
+  constructor(){
+    super();
+    this.state = {
+      buttonDisabled: true
+    }
+  }
+
   componentDidMount () {
     $('[data-toggle="tooltip"]').tooltip()
     this.props.fetchContainer(this.props.containerId, this.props.index)
@@ -76,12 +84,12 @@ class Card extends Component {
             <div className="row">
               <div className="col">
                 <button  className="btn btn-outline-success full-width to-pointer" disabled=
-                  {
+                {
                     this.props.container.containers[this.props.index].containerMovements 
                     ? this.props.container.containers[this.props.index].containerMovements.length !== 0 
                       ? false
                       : true
-                    : true
+                    : false
                   } 
                   onClick={() => this.updateContainer(this.props.containerId, this.props.index)}>Atualizar</button>
               </div>
@@ -92,7 +100,7 @@ class Card extends Component {
                     ? this.props.container.containers[this.props.index].containerMovements.length !== 0 
                       ? false
                       : true
-                    : true
+                    : false
                   } 
                 onClick={() => this.props.deleteContainer(this.props.index)}>Deletar</button></div>
               </div>

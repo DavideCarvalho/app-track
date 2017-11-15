@@ -7,16 +7,25 @@ const cors = require('cors');
 app.use(cors());
 
 app.get('/container/:containerId', async (req, res) => {
-    const containerId = req.params.containerId;
+  const containerId = req.params.containerId;
+  try {
     const data = await axios.get(`http://localhost:5000/msc/${containerId}`);
     const response = {
-        id: containerId,
-        company: "MSC",
-        containerMovements: data.data
+      id: containerId,
+      company: "MSC",
+      containerMovements: data.data
     };
     res.json(response);
+  } catch (e) {
+    const response = {
+      id: containerId,
+      company: "MSC",
+      containerMovements: null
+    };
+    res.json(response);
+  }
 })
 
 app.listen(8081, () => {
-    console.log('escutando a porta 8081')
+  console.log('escutando a porta 8081')
 });
