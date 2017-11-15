@@ -12,14 +12,14 @@ app.get('/container/:containerId', async (req, res) => {
     const data = await axios.get(`http://localhost:5000/msc/${containerId}`);
     const response = {
       id: containerId,
-      company: "MSC",
+      company:'MSC',
       containerMovements: data.data
     };
     res.json(response);
   } catch (e) {
     const response = {
       id: containerId,
-      company: "MSC",
+      company: 'MSC',
       containerMovements: null
     };
     res.json(response);

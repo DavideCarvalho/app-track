@@ -19,12 +19,25 @@ const addContainer = (containerId) => (dispatch) => {
 
 const FETCH_CONTAINER = 'FETCH_CONTAINER';
 const fetchContainer = (containerId, index) => async (dispatch) => {
-  const containerMovements = await axios.get(`${ROOT_URL}/container/${containerId}`);
-  const payload = {
-    containerMovements: containerMovements.data,
-    index: index
+  try {
+    const containerMovements = await axios.get(`${ROOT_URL}/container/${containerId}`);
+    const payload = {
+      containerMovements: containerMovements.data,
+      index: index
+    }
+    dispatch({ type: FETCH_CONTAINER, payload: payload });
+  } catch (e) {
+    const containerMovements = {
+      id: containerId,
+      company:'',
+      containerMovements: null
+    };
+    const payload =  {
+      containerMovements: containerMovements,
+      index: index
+    }
+    dispatch({ type: FETCH_CONTAINER, payload: payload })
   }
-  dispatch({ type: FETCH_CONTAINER, payload: payload });
 }
 
 export const UPDATE_CONTAINER = 'UPDATE_CONTAINER';
